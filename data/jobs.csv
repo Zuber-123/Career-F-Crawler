@@ -1,0 +1,1001 @@
+Title,Company,Location,Description,Skills,DatePosted,SkillLevel
+Python Developer,Webify,Varanasi,Assist in backend development,linux shell scripting,2025-03-31,Senior
+ML Engineer,TCS,Hyderabad,Develop full-stack applications,python flask,2025-03-25,Entry
+Software Engineer,DataSoft,Bhopal,Analyze business data,linux shell scripting,2025-05-15,Senior
+Frontend Developer,Capgemini,Solapur,Manage cloud infrastructure,python ai ml,2025-04-27,Mid
+Cloud Architect,Zoho,Pune,Analyze data models,python flask api backend,2025-04-03,Mid
+Business Analyst,Deepminds,Kolkata,Analyze data models,python flask api backend,2025-03-27,Senior
+Frontend Developer,TCS,Jaipur,Work on APIs and services,python ai ml,2025-03-26,Entry
+Data Scientist,HCL,Kota,Analyze business data,aws docker kubernetes,2025-03-27,Mid
+Project Manager,Webify,Jodhpur,Develop full-stack applications,networking security,2025-03-31,Mid
+ML Engineer,Deepminds,Thane,Work on APIs and services,excel sql tableau,2025-05-17,Mid
+Security Analyst,Zoho,Visakhapatnam,Assist in backend development,python machine learning pandas numpy,2025-03-25,Mid
+System Administrator,Starttech,Madurai,Develop full-stack applications,aws docker kubernetes,2025-03-29,Senior
+ML Engineer,HCL,Nagpur,Develop mobile apps,troubleshooting hardware software,2025-05-01,Mid
+Frontend Developer,MindTree,Bhopal,Troubleshoot system issues,sql oracle dbms,2025-04-05,Senior
+Software Engineer,DataSoft,Ludhiana,Deploy machine learning pipelines,excel sql tableau,2025-04-15,Mid
+System Administrator,CloudNet,Vijayawada,Support AI projects,python ai keras,2025-04-01,Entry
+Business Analyst,CloudNet,Dhanbad,Automate deployment pipelines,python flask,2025-04-04,Senior
+Security Analyst,InfoSys,Solapur,Create responsive UI using React,troubleshooting hardware software,2025-03-22,Entry
+Junior Data Scientist,TCS,Nagpur,Assist in backend development,scrum agile jira,2025-04-15,Entry
+Cloud Architect,HCL,Hubli,Design database schemas,python django rest sql,2025-05-08,Mid
+Mobile App Developer,MindTree,Srinagar,Build ML models for prediction,python flask api backend,2025-04-22,Mid
+Project Manager,InfoSys,Jodhpur,Coordinate with teams,react javascript html css,2025-04-04,Senior
+Data Scientist,CodeNest,Ranchi,Work on APIs and services,python pandas numpy,2025-03-21,Entry
+Cloud Architect,DataSoft,Delhi,Develop scalable backend systems,troubleshooting hardware software,2025-03-19,Mid
+Software Engineer,InnoTech,Lucknow,Analyze data models,linux shell scripting,2025-04-22,Entry
+Network Engineer,Automltech,Kota,Monitor network activity,python ai keras,2025-03-29,Entry
+Data Scientist,HCL,Kolkata,Monitor network activity,python flask,2025-04-19,Entry
+ML Engineer,InnoTech,Ranchi,Monitor network activity,excel sql tableau,2025-05-02,Entry
+ML Engineer,TechCorp,Kanpur,Analyze data models,excel sql tableau,2025-04-15,Mid
+Cloud Architect,Wipro,Vijayawada,Improve data pipelines,python flask,2025-03-24,Entry
+Technical Support,Webify,Varanasi,Develop scalable backend systems,aws azure gcp,2025-04-12,Mid
+AI Developer,Automltech,Bhopal,Analyze business data,python react sql git,2025-04-11,Entry
+Project Manager,InfoSys,Bhopal,Build ML models for prediction,linux shell scripting,2025-04-09,Entry
+ML Engineer,TechCorp,Jabalpur,Develop scalable backend systems,python django rest sql,2025-04-24,Senior
+Junior AI Researcher,HCL,Gwalior,Monitor network activity,spark hadoop bigdata,2025-04-27,Senior
+Database Administrator,Zoho,Vasai,Develop full-stack applications,python ai keras,2025-04-03,Senior
+ML Engineer,Automltech,Nagpur,Support AI projects,python flask api backend,2025-05-08,Senior
+Data Scientist,DataSoft,Jaipur,Assist in backend development,excel sql tableau,2025-05-05,Mid
+AI Developer,CloudNet,Bangalore,Build ML models for prediction,troubleshooting hardware software,2025-05-12,Mid
+AI Developer,HCL,Allahabad,Troubleshoot system issues,scrum agile jira,2025-03-25,Mid
+Security Analyst,MindTree,Solapur,Troubleshoot system issues,python ai ml,2025-05-10,Mid
+AI Developer,DataSoft,Raipur,Develop full-stack applications,python ai ml,2025-05-04,Mid
+DevOps Engineer,MindTree,Vadodara,Assist in backend development,ml tensorflow keras numpy,2025-04-11,Senior
+System Administrator,Freshworks,Dhanbad,Coordinate with teams,python pandas numpy,2025-04-09,Entry
+Security Analyst,CodeNest,Pune,Design cloud solutions,python ai keras,2025-04-06,Senior
+Project Manager,InfoSys,Kalyan,Analyze data models,sql oracle dbms,2025-03-18,Entry
+DevOps Engineer,Deepminds,Guwahati,Assist in backend development,troubleshooting hardware software,2025-03-31,Entry
+Backend Engineer,Webify,Bhopal,Develop mobile apps,aws azure gcp,2025-05-16,Senior
+DevOps Engineer,TCS,Varanasi,Deploy machine learning pipelines,spark hadoop bigdata,2025-03-19,Senior
+DevOps Engineer,Zoho,Indore,Develop mobile apps,sql oracle dbms,2025-04-08,Senior
+Backend Engineer,TechCorp,Madurai,Work on APIs and services,aws azure gcp,2025-03-27,Mid
+Mobile App Developer,DataSoft,Dhanbad,Analyze data models,python ai keras,2025-03-28,Entry
+Business Analyst,Zoho,Vadodara,Design cloud solutions,ml tensorflow keras numpy,2025-03-27,Entry
+Network Engineer,MindTree,Allahabad,Troubleshoot system issues,python ai ml,2025-04-06,Senior
+Python Developer,Automltech,Madurai,Design cloud solutions,aws azure gcp,2025-04-15,Mid
+AI Developer,HCL,Agra,Develop scalable backend systems,react javascript html css,2025-05-08,Senior
+Network Engineer,Webify,Hyderabad,Build ML models for prediction,python ai ml,2025-05-10,Mid
+Business Analyst,Zoho,Navi Mumbai,Support AI projects,python machine learning pandas numpy,2025-04-05,Senior
+Junior Data Scientist,Wipro,Navi Mumbai,Deploy machine learning pipelines,python flask api backend,2025-03-19,Senior
+Database Administrator,InnoTech,Chandigarh,Develop full-stack applications,networking security,2025-04-14,Entry
+Technical Support,Wipro,Rajkot,Create responsive UI using React,excel sql tableau,2025-03-20,Entry
+Junior AI Researcher,TCS,Kolkata,Create responsive UI using React,troubleshooting hardware software,2025-03-20,Senior
+Python Developer,Starttech,Dhanbad,Develop scalable backend systems,aws azure gcp,2025-04-12,Senior
+Security Analyst,HCL,Coimbatore,Deploy machine learning pipelines,aws azure gcp,2025-03-20,Senior
+Network Engineer,MindTree,Mumbai,Build ML models for prediction,troubleshooting hardware software,2025-05-05,Mid
+Backend Engineer,Starttech,Ranchi,Assist in backend development,python pandas numpy,2025-03-22,Mid
+Mobile App Developer,TCS,Visakhapatnam,Coordinate with teams,flutter kotlin android,2025-03-28,Mid
+Business Analyst,DataSoft,Howrah,Manage cloud infrastructure,ml tensorflow keras numpy,2025-05-12,Entry
+Mobile App Developer,InfoSys,Indore,Provide tech support,python django rest sql,2025-05-13,Entry
+AI Developer,InfoSys,Vijayawada,Analyze data models,excel sql tableau,2025-03-21,Mid
+AI Developer,CloudNet,Ahmedabad,Provide tech support,excel sql tableau,2025-04-13,Mid
+Project Manager,Codeworks,Amritsar,Analyze business data,networking security,2025-05-12,Mid
+Backend Engineer,HCL,Vijayawada,Design database schemas,flutter kotlin android,2025-03-21,Senior
+Backend Engineer,Webify,Surat,Manage cloud infrastructure,python ai keras,2025-04-10,Entry
+AI Developer,CloudNet,Vijayawada,Improve data pipelines,python pandas numpy,2025-04-06,Entry
+Junior Python Developer,InnoTech,Allahabad,Build ML models for prediction,python pandas numpy,2025-04-14,Entry
+Frontend Developer,Freshworks,Surat,Deploy machine learning pipelines,python ai keras,2025-05-17,Senior
+Junior AI Researcher,InnoTech,Amritsar,Work on APIs and services,flutter kotlin android,2025-05-03,Entry
+Technical Support,Webify,Indore,Manage cloud infrastructure,python react sql git,2025-03-24,Senior
+DevOps Engineer,TCS,Jabalpur,Automate deployment pipelines,python flask,2025-04-07,Mid
+Backend Engineer,InnoTech,Kolkata,Support AI projects,python django rest sql,2025-04-12,Mid
+Junior AI Researcher,MindTree,Hyderabad,Create responsive UI using React,flutter kotlin android,2025-04-03,Senior
+Security Analyst,CloudNet,Ghaziabad,Automate deployment pipelines,aws azure gcp,2025-05-09,Mid
+Cloud Architect,Codeworks,Hubli,Develop scalable backend systems,flutter kotlin android,2025-05-09,Mid
+DevOps Engineer,InfoSys,Srinagar,Manage cloud infrastructure,python flask api backend,2025-05-05,Mid
+Project Manager,HCL,Chennai,Build ML models for prediction,sql oracle dbms,2025-04-17,Senior
+Junior Python Developer,InfoSys,Thane,Deploy machine learning pipelines,aws azure gcp,2025-04-03,Senior
+DevOps Engineer,Deepminds,Kolkata,Design database schemas,python pandas numpy,2025-04-14,Entry
+Database Administrator,InnoTech,Vadodara,Provide tech support,python react sql git,2025-03-27,Mid
+Junior AI Researcher,Zoho,Agra,Monitor network activity,flutter kotlin android,2025-03-30,Entry
+Business Analyst,Capgemini,Nashik,Develop scalable backend systems,excel sql tableau,2025-05-09,Mid
+Security Analyst,Capgemini,Hyderabad,Analyze data models,ml tensorflow keras numpy,2025-04-21,Mid
+Junior AI Researcher,HCL,Srinagar,Manage cloud infrastructure,python pandas numpy,2025-04-29,Mid
+Cloud Architect,HCL,Kolkata,Provide tech support,flutter kotlin android,2025-05-10,Mid
+Mobile App Developer,Freshworks,Howrah,Coordinate with teams,python react sql git,2025-05-16,Entry
+System Administrator,Wipro,Ghaziabad,Monitor network activity,sql oracle dbms,2025-05-11,Mid
+Junior AI Researcher,Starttech,Gwalior,Automate deployment pipelines,sql oracle dbms,2025-05-07,Senior
+Junior Python Developer,CodeNest,Bhopal,Design cloud solutions,aws docker kubernetes,2025-03-20,Senior
+ML Engineer,Capgemini,Srinagar,Automate deployment pipelines,flutter kotlin android,2025-04-26,Senior
+Junior AI Researcher,Codeworks,Kanpur,Design database schemas,python pandas numpy,2025-04-24,Mid
+Python Developer,TechCorp,Meerut,Design database schemas,react javascript html css,2025-04-06,Senior
+ML Engineer,InfoSys,Chennai,Provide tech support,excel sql tableau,2025-05-08,Senior
+Junior Data Scientist,Automltech,Kalyan,Improve data pipelines,python pandas numpy,2025-04-07,Senior
+Junior AI Researcher,Capgemini,Visakhapatnam,Troubleshoot system issues,troubleshooting hardware software,2025-04-28,Senior
+Frontend Developer,Starttech,Thane,Coordinate with teams,python flask,2025-03-18,Entry
+Technical Support,MindTree,Ludhiana,Automate deployment pipelines,troubleshooting hardware software,2025-03-26,Mid
+Database Administrator,Codeworks,Hubli,Work on APIs and services,flutter kotlin android,2025-03-28,Mid
+Junior AI Researcher,Starttech,Vijayawada,Design cloud solutions,python ai keras,2025-05-06,Senior
+Frontend Developer,CloudNet,Ludhiana,Manage cloud infrastructure,flutter kotlin android,2025-03-28,Entry
+Business Analyst,Capgemini,Ludhiana,Analyze business data,ml tensorflow keras numpy,2025-03-28,Mid
+Software Engineer,Wipro,Chandigarh,Provide tech support,troubleshooting hardware software,2025-04-24,Entry
+Database Administrator,CloudNet,Jaipur,Develop scalable backend systems,python django rest sql,2025-04-18,Senior
+Python Developer,Zoho,Amritsar,Develop scalable backend systems,flutter kotlin android,2025-04-07,Entry
+Cloud Architect,MindTree,Varanasi,Design database schemas,python machine learning pandas numpy,2025-03-30,Entry
+Junior Data Scientist,CodeNest,Jodhpur,Provide tech support,python flask,2025-03-28,Senior
+Business Analyst,CodeNest,Pune,Create responsive UI using React,react javascript html css,2025-03-26,Senior
+ML Engineer,Starttech,Allahabad,Develop scalable backend systems,linux shell scripting,2025-05-17,Mid
+Cloud Architect,Freshworks,Thane,Develop scalable backend systems,python django rest sql,2025-05-09,Mid
+Network Engineer,MindTree,Chandigarh,Assist in backend development,python ai ml,2025-04-30,Entry
+Security Analyst,MindTree,Srinagar,Deploy machine learning pipelines,python ai keras,2025-04-29,Entry
+Junior Data Scientist,CodeNest,Rajkot,Work on APIs and services,python ai keras,2025-05-06,Senior
+DevOps Engineer,CloudNet,Raipur,Create responsive UI using React,python flask,2025-04-22,Entry
+Database Administrator,InnoTech,Kanpur,Design database schemas,linux shell scripting,2025-05-09,Entry
+Software Engineer,DataSoft,Jabalpur,Develop scalable backend systems,aws docker kubernetes,2025-05-04,Senior
+Data Scientist,Deepminds,Ludhiana,Deploy machine learning pipelines,spark hadoop bigdata,2025-05-02,Senior
+Python Developer,CloudNet,Navi Mumbai,Work on APIs and services,python pandas numpy,2025-05-13,Entry
+Software Engineer,Codeworks,Jodhpur,Design cloud solutions,ml tensorflow keras numpy,2025-04-22,Senior
+Junior Data Scientist,Automltech,Delhi,Build ML models for prediction,python ai ml,2025-04-18,Entry
+Business Analyst,Wipro,Kalyan,Develop mobile apps,scrum agile jira,2025-04-02,Entry
+Mobile App Developer,Webify,Nashik,Analyze business data,python ai keras,2025-03-21,Mid
+System Administrator,CloudNet,Madurai,Create responsive UI using React,python pandas numpy,2025-04-15,Senior
+Backend Engineer,HCL,Amritsar,Monitor network activity,python ai ml,2025-04-21,Senior
+Junior Data Scientist,Webify,Agra,Develop scalable backend systems,sql oracle dbms,2025-05-11,Entry
+Software Engineer,Codeworks,Kalyan,Build ML models for prediction,python ai keras,2025-04-06,Mid
+System Administrator,HCL,Coimbatore,Assist in backend development,aws docker kubernetes,2025-04-26,Senior
+Data Scientist,Automltech,Rajkot,Build ML models for prediction,aws azure gcp,2025-05-16,Mid
+Python Developer,Webify,Vasai,Support AI projects,scrum agile jira,2025-04-25,Mid
+Junior Data Scientist,Webify,Bangalore,Develop scalable backend systems,spark hadoop bigdata,2025-04-27,Mid
+Security Analyst,Webify,Delhi,Develop full-stack applications,scrum agile jira,2025-03-25,Senior
+Security Analyst,Wipro,Navi Mumbai,Build ML models for prediction,aws docker kubernetes,2025-04-03,Entry
+Software Engineer,MindTree,Ghaziabad,Analyze business data,scrum agile jira,2025-04-08,Entry
+Frontend Developer,Codeworks,Delhi,Analyze business data,sql oracle dbms,2025-04-06,Mid
+Python Developer,Webify,Ludhiana,Automate deployment pipelines,python ai ml,2025-04-28,Entry
+Software Engineer,InfoSys,Ghaziabad,Automate deployment pipelines,python django rest sql,2025-04-13,Entry
+AI Developer,Webify,Ludhiana,Build ML models for prediction,python ai keras,2025-04-20,Mid
+Junior AI Researcher,Capgemini,Gwalior,Build ML models for prediction,aws docker kubernetes,2025-04-06,Senior
+ML Engineer,Deepminds,Kanpur,Design cloud solutions,excel sql tableau,2025-04-24,Senior
+Mobile App Developer,CodeNest,Chandigarh,Manage cloud infrastructure,flutter kotlin android,2025-05-16,Entry
+ML Engineer,Starttech,Ludhiana,Manage cloud infrastructure,python flask,2025-04-16,Senior
+Junior Data Scientist,CloudNet,Aurangabad,Design cloud solutions,python flask,2025-03-31,Mid
+Junior Data Scientist,Deepminds,Coimbatore,Design database schemas,aws azure gcp,2025-05-12,Mid
+Data Scientist,HCL,Bangalore,Analyze data models,python ai ml,2025-03-24,Entry
+Backend Engineer,TechCorp,Coimbatore,Troubleshoot system issues,excel sql tableau,2025-03-22,Senior
+Database Administrator,Freshworks,Allahabad,Design database schemas,networking security,2025-04-09,Senior
+ML Engineer,HCL,Nagpur,Monitor network activity,aws azure gcp,2025-03-24,Senior
+Python Developer,MindTree,Kolkata,Improve data pipelines,python django rest sql,2025-03-27,Mid
+Backend Engineer,TCS,Mumbai,Manage cloud infrastructure,flutter kotlin android,2025-03-27,Mid
+Python Developer,InfoSys,Vijayawada,Analyze business data,python machine learning pandas numpy,2025-04-20,Entry
+ML Engineer,InfoSys,Raipur,Automate deployment pipelines,python machine learning pandas numpy,2025-04-06,Entry
+Frontend Developer,HCL,Mumbai,Assist in backend development,python ai ml,2025-04-20,Mid
+Frontend Developer,TechCorp,Nagpur,Support AI projects,spark hadoop bigdata,2025-04-25,Mid
+ML Engineer,Automltech,Chandigarh,Develop mobile apps,python machine learning pandas numpy,2025-03-29,Senior
+Database Administrator,Freshworks,Faridabad,Analyze business data,python django rest sql,2025-04-06,Entry
+AI Developer,Webify,Jabalpur,Manage cloud infrastructure,python pandas numpy,2025-03-27,Senior
+Software Engineer,Webify,Kota,Analyze business data,python react sql git,2025-03-20,Mid
+Frontend Developer,InnoTech,Pune,Build ML models for prediction,python flask api backend,2025-03-26,Mid
+Security Analyst,Starttech,Varanasi,Provide tech support,python flask,2025-03-20,Entry
+Data Scientist,CodeNest,Patna,Assist in backend development,python react sql git,2025-04-29,Mid
+Mobile App Developer,Wipro,Navi Mumbai,Develop scalable backend systems,sql oracle dbms,2025-03-26,Senior
+Mobile App Developer,Starttech,Vasai,Automate deployment pipelines,python machine learning pandas numpy,2025-04-15,Senior
+System Administrator,Zoho,Nashik,Design cloud solutions,react javascript html css,2025-04-17,Mid
+Network Engineer,TechCorp,Mumbai,Develop mobile apps,aws docker kubernetes,2025-04-03,Mid
+Database Administrator,Freshworks,Chennai,Develop full-stack applications,python ai ml,2025-04-29,Senior
+Backend Engineer,Codeworks,Jaipur,Monitor network activity,python django rest sql,2025-05-01,Mid
+ML Engineer,Starttech,Hubli,Design cloud solutions,aws azure gcp,2025-03-30,Mid
+System Administrator,CloudNet,Ahmedabad,Analyze data models,ml tensorflow keras numpy,2025-05-11,Senior
+DevOps Engineer,Starttech,Dhanbad,Provide tech support,python flask api backend,2025-05-13,Entry
+System Administrator,HCL,Coimbatore,Design cloud solutions,sql oracle dbms,2025-04-22,Senior
+Junior Data Scientist,Freshworks,Dhanbad,Troubleshoot system issues,python django rest sql,2025-04-16,Mid
+Business Analyst,Starttech,Ranchi,Manage cloud infrastructure,python ai keras,2025-04-08,Mid
+System Administrator,TechCorp,Kota,Support AI projects,flutter kotlin android,2025-03-20,Senior
+Python Developer,InfoSys,Solapur,Analyze business data,python react sql git,2025-04-01,Mid
+Python Developer,HCL,Bhopal,Improve data pipelines,python machine learning pandas numpy,2025-03-26,Senior
+Business Analyst,HCL,Madurai,Develop scalable backend systems,aws docker kubernetes,2025-04-11,Senior
+Backend Engineer,Deepminds,Ranchi,Assist in backend development,python react sql git,2025-05-04,Mid
+Business Analyst,DataSoft,Kanpur,Automate deployment pipelines,troubleshooting hardware software,2025-04-26,Mid
+Software Engineer,Wipro,Lucknow,Analyze business data,scrum agile jira,2025-04-22,Senior
+Technical Support,Codeworks,Vadodara,Develop mobile apps,aws docker kubernetes,2025-04-03,Mid
+Mobile App Developer,InfoSys,Mumbai,Design cloud solutions,sql oracle dbms,2025-04-08,Senior
+Security Analyst,TCS,Aurangabad,Analyze data models,networking security,2025-04-27,Mid
+ML Engineer,Starttech,Hyderabad,Design database schemas,python ai ml,2025-05-15,Entry
+Cloud Architect,HCL,Bangalore,Develop mobile apps,python pandas numpy,2025-05-15,Entry
+AI Developer,TCS,Bhopal,Monitor network activity,sql oracle dbms,2025-04-27,Senior
+Security Analyst,Freshworks,Ranchi,Improve data pipelines,troubleshooting hardware software,2025-05-10,Mid
+AI Developer,TechCorp,Dhanbad,Analyze data models,python react sql git,2025-04-16,Senior
+Network Engineer,Capgemini,Mumbai,Build ML models for prediction,spark hadoop bigdata,2025-04-26,Senior
+ML Engineer,TCS,Ludhiana,Create responsive UI using React,sql oracle dbms,2025-04-18,Senior
+System Administrator,CodeNest,Amritsar,Work on APIs and services,scrum agile jira,2025-04-18,Mid
+Network Engineer,CodeNest,Vasai,Monitor network activity,scrum agile jira,2025-04-18,Mid
+AI Developer,TechCorp,Nagpur,Create responsive UI using React,python react sql git,2025-05-01,Mid
+Technical Support,TCS,Nagpur,Troubleshoot system issues,scrum agile jira,2025-04-05,Senior
+Frontend Developer,MindTree,Navi Mumbai,Work on APIs and services,linux shell scripting,2025-03-31,Mid
+Network Engineer,DataSoft,Bhopal,Support AI projects,react javascript html css,2025-05-17,Senior
+Backend Engineer,DataSoft,Kota,Support AI projects,troubleshooting hardware software,2025-05-10,Entry
+Network Engineer,TechCorp,Bangalore,Troubleshoot system issues,python ai ml,2025-04-23,Mid
+Data Scientist,TechCorp,Bhopal,Analyze data models,spark hadoop bigdata,2025-05-16,Entry
+Software Engineer,Zoho,Coimbatore,Analyze data models,sql oracle dbms,2025-04-29,Entry
+Technical Support,DataSoft,Amritsar,Create responsive UI using React,react javascript html css,2025-03-31,Senior
+System Administrator,HCL,Amritsar,Develop full-stack applications,aws docker kubernetes,2025-04-01,Senior
+Frontend Developer,Codeworks,Nashik,Create responsive UI using React,python django rest sql,2025-03-31,Senior
+Junior AI Researcher,TCS,Mumbai,Coordinate with teams,python react sql git,2025-05-04,Mid
+Data Scientist,Webify,Meerut,Monitor network activity,scrum agile jira,2025-03-29,Senior
+Python Developer,Deepminds,Patna,Manage cloud infrastructure,aws azure gcp,2025-05-12,Entry
+DevOps Engineer,Webify,Chennai,Develop scalable backend systems,python pandas numpy,2025-04-10,Entry
+Software Engineer,HCL,Madurai,Design database schemas,python react sql git,2025-05-07,Senior
+Security Analyst,HCL,Pune,Design cloud solutions,python flask,2025-03-18,Entry
+AI Developer,MindTree,Raipur,Build ML models for prediction,python flask,2025-04-07,Senior
+Frontend Developer,Webify,Bangalore,Build ML models for prediction,python ai ml,2025-04-22,Entry
+Cloud Architect,Zoho,Coimbatore,Analyze business data,python django rest sql,2025-03-22,Entry
+Data Scientist,Webify,Ludhiana,Provide tech support,aws azure gcp,2025-04-28,Senior
+Business Analyst,Capgemini,Bhopal,Monitor network activity,python flask api backend,2025-03-24,Entry
+Technical Support,Capgemini,Vadodara,Troubleshoot system issues,scrum agile jira,2025-05-11,Senior
+Security Analyst,HCL,Rajkot,Develop scalable backend systems,aws docker kubernetes,2025-04-11,Mid
+Junior Data Scientist,MindTree,Jodhpur,Develop mobile apps,python pandas numpy,2025-04-04,Mid
+AI Developer,Codeworks,Chennai,Build ML models for prediction,flutter kotlin android,2025-05-10,Senior
+Junior Python Developer,Codeworks,Visakhapatnam,Create responsive UI using React,troubleshooting hardware software,2025-04-21,Senior
+Junior AI Researcher,Wipro,Bangalore,Monitor network activity,networking security,2025-05-12,Mid
+Backend Engineer,Automltech,Allahabad,Build ML models for prediction,python pandas numpy,2025-05-09,Mid
+Frontend Developer,Zoho,Lucknow,Work on APIs and services,aws docker kubernetes,2025-04-03,Senior
+Project Manager,Automltech,Surat,Support AI projects,python flask,2025-04-04,Senior
+Mobile App Developer,DataSoft,Faridabad,Assist in backend development,react javascript html css,2025-04-11,Senior
+System Administrator,Starttech,Hyderabad,Automate deployment pipelines,aws docker kubernetes,2025-04-06,Mid
+Data Scientist,Webify,Vadodara,Troubleshoot system issues,spark hadoop bigdata,2025-03-20,Senior
+Frontend Developer,InnoTech,Vadodara,Troubleshoot system issues,aws docker kubernetes,2025-04-17,Senior
+Security Analyst,Codeworks,Ahmedabad,Assist in backend development,networking security,2025-04-15,Senior
+AI Developer,TCS,Hyderabad,Design database schemas,python machine learning pandas numpy,2025-03-22,Entry
+ML Engineer,Freshworks,Jaipur,Coordinate with teams,aws azure gcp,2025-04-16,Senior
+Junior Data Scientist,Freshworks,Srinagar,Work on APIs and services,aws docker kubernetes,2025-05-12,Mid
+Data Scientist,MindTree,Surat,Design database schemas,flutter kotlin android,2025-05-03,Entry
+Frontend Developer,MindTree,Pune,Improve data pipelines,scrum agile jira,2025-03-21,Senior
+Backend Engineer,Freshworks,Thane,Analyze data models,scrum agile jira,2025-05-09,Senior
+Business Analyst,TCS,Varanasi,Automate deployment pipelines,python react sql git,2025-04-25,Mid
+Technical Support,Codeworks,Visakhapatnam,Work on APIs and services,python machine learning pandas numpy,2025-04-04,Senior
+ML Engineer,Zoho,Srinagar,Analyze business data,python flask,2025-05-16,Senior
+Business Analyst,Deepminds,Amritsar,Monitor network activity,python django rest sql,2025-04-02,Senior
+Database Administrator,CodeNest,Vadodara,Improve data pipelines,python react sql git,2025-04-27,Mid
+Junior AI Researcher,Codeworks,Madurai,Work on APIs and services,python react sql git,2025-04-14,Senior
+Cloud Architect,DataSoft,Kolkata,Work on APIs and services,python pandas numpy,2025-04-10,Senior
+Network Engineer,HCL,Meerut,Develop mobile apps,aws azure gcp,2025-03-18,Entry
+ML Engineer,Freshworks,Indore,Manage cloud infrastructure,flutter kotlin android,2025-04-06,Entry
+Security Analyst,TechCorp,Indore,Create responsive UI using React,react javascript html css,2025-05-17,Entry
+Cloud Architect,InnoTech,Ranchi,Develop mobile apps,troubleshooting hardware software,2025-03-22,Mid
+Business Analyst,DataSoft,Agra,Analyze business data,react javascript html css,2025-05-10,Senior
+Junior Data Scientist,InnoTech,Kolkata,Assist in backend development,python ai keras,2025-05-05,Mid
+Backend Engineer,MindTree,Vadodara,Manage cloud infrastructure,linux shell scripting,2025-03-21,Mid
+Network Engineer,CodeNest,Surat,Improve data pipelines,spark hadoop bigdata,2025-05-10,Senior
+Business Analyst,DataSoft,Ahmedabad,Analyze business data,python react sql git,2025-04-17,Entry
+AI Developer,Wipro,Vadodara,Support AI projects,ml tensorflow keras numpy,2025-04-12,Entry
+Software Engineer,InfoSys,Lucknow,Develop scalable backend systems,aws azure gcp,2025-04-30,Senior
+Junior Python Developer,HCL,Gwalior,Analyze business data,scrum agile jira,2025-03-28,Entry
+DevOps Engineer,HCL,Amritsar,Analyze business data,scrum agile jira,2025-03-26,Senior
+Junior Data Scientist,CloudNet,Bhopal,Design database schemas,python react sql git,2025-03-29,Mid
+Python Developer,CodeNest,Chennai,Troubleshoot system issues,python ai keras,2025-05-12,Entry
+Junior Python Developer,Zoho,Bangalore,Work on APIs and services,python react sql git,2025-05-15,Entry
+AI Developer,Automltech,Ranchi,Deploy machine learning pipelines,linux shell scripting,2025-05-02,Senior
+Database Administrator,CloudNet,Lucknow,Support AI projects,networking security,2025-05-04,Mid
+Junior AI Researcher,InnoTech,Kolkata,Develop full-stack applications,react javascript html css,2025-05-06,Senior
+DevOps Engineer,CodeNest,Srinagar,Deploy machine learning pipelines,python machine learning pandas numpy,2025-05-02,Mid
+DevOps Engineer,Codeworks,Hubli,Design database schemas,linux shell scripting,2025-05-10,Entry
+System Administrator,Codeworks,Nagpur,Build ML models for prediction,python django rest sql,2025-05-01,Senior
+Frontend Developer,TCS,Rajkot,Improve data pipelines,linux shell scripting,2025-04-19,Entry
+Software Engineer,Automltech,Hyderabad,Design cloud solutions,python django rest sql,2025-04-18,Entry
+Junior Python Developer,Freshworks,Jabalpur,Deploy machine learning pipelines,ml tensorflow keras numpy,2025-04-29,Mid
+Project Manager,CloudNet,Navi Mumbai,Improve data pipelines,flutter kotlin android,2025-04-18,Entry
+Security Analyst,Codeworks,Ludhiana,Automate deployment pipelines,python ai keras,2025-04-16,Mid
+Data Scientist,Zoho,Delhi,Automate deployment pipelines,react javascript html css,2025-04-28,Mid
+Security Analyst,Codeworks,Patna,Monitor network activity,aws azure gcp,2025-03-31,Mid
+Frontend Developer,CloudNet,Chandigarh,Assist in backend development,python ai keras,2025-03-21,Mid
+Mobile App Developer,Codeworks,Agra,Coordinate with teams,python machine learning pandas numpy,2025-04-19,Mid
+Junior Data Scientist,InfoSys,Lucknow,Provide tech support,networking security,2025-04-05,Senior
+System Administrator,MindTree,Faridabad,Work on APIs and services,linux shell scripting,2025-03-21,Senior
+Cloud Architect,Freshworks,Raipur,Monitor network activity,react javascript html css,2025-05-09,Mid
+AI Developer,TCS,Nagpur,Design cloud solutions,python pandas numpy,2025-05-13,Mid
+Junior Python Developer,CodeNest,Chandigarh,Build ML models for prediction,aws azure gcp,2025-05-09,Senior
+ML Engineer,Capgemini,Kolkata,Design cloud solutions,troubleshooting hardware software,2025-04-04,Senior
+Network Engineer,Deepminds,Vijayawada,Troubleshoot system issues,spark hadoop bigdata,2025-04-25,Mid
+System Administrator,HCL,Howrah,Analyze business data,troubleshooting hardware software,2025-05-03,Entry
+AI Developer,HCL,Ranchi,Develop mobile apps,linux shell scripting,2025-04-29,Mid
+Frontend Developer,TCS,Thane,Work on APIs and services,aws azure gcp,2025-04-03,Mid
+Technical Support,HCL,Kolkata,Develop mobile apps,aws docker kubernetes,2025-03-30,Senior
+Mobile App Developer,Automltech,Hyderabad,Coordinate with teams,python flask,2025-03-19,Entry
+Database Administrator,HCL,Ghaziabad,Improve data pipelines,python flask api backend,2025-03-28,Senior
+Database Administrator,Wipro,Delhi,Improve data pipelines,linux shell scripting,2025-04-21,Entry
+System Administrator,Deepminds,Bangalore,Coordinate with teams,python machine learning pandas numpy,2025-04-10,Entry
+Business Analyst,DataSoft,Gwalior,Design cloud solutions,linux shell scripting,2025-04-17,Senior
+Database Administrator,InfoSys,Kolkata,Develop scalable backend systems,ml tensorflow keras numpy,2025-03-19,Entry
+Software Engineer,Deepminds,Chandigarh,Analyze business data,aws docker kubernetes,2025-04-23,Senior
+Junior Data Scientist,DataSoft,Faridabad,Improve data pipelines,python react sql git,2025-04-29,Senior
+Junior AI Researcher,Starttech,Ghaziabad,Automate deployment pipelines,python flask,2025-04-07,Senior
+Security Analyst,Automltech,Navi Mumbai,Build ML models for prediction,aws azure gcp,2025-04-10,Mid
+Business Analyst,Deepminds,Visakhapatnam,Develop full-stack applications,python machine learning pandas numpy,2025-04-13,Mid
+Business Analyst,Freshworks,Coimbatore,Assist in backend development,aws docker kubernetes,2025-05-01,Mid
+Frontend Developer,TCS,Ahmedabad,Build ML models for prediction,linux shell scripting,2025-05-10,Mid
+ML Engineer,MindTree,Srinagar,Design cloud solutions,scrum agile jira,2025-05-07,Senior
+Data Scientist,Codeworks,Ranchi,Build ML models for prediction,python react sql git,2025-05-07,Senior
+Junior Data Scientist,InfoSys,Surat,Assist in backend development,python django rest sql,2025-05-08,Senior
+Backend Engineer,MindTree,Thane,Coordinate with teams,python ai ml,2025-05-14,Entry
+Security Analyst,InfoSys,Kolkata,Build ML models for prediction,flutter kotlin android,2025-04-06,Entry
+Database Administrator,Codeworks,Srinagar,Support AI projects,sql oracle dbms,2025-04-23,Entry
+Cloud Architect,Deepminds,Allahabad,Develop scalable backend systems,linux shell scripting,2025-04-21,Entry
+Business Analyst,Freshworks,Rajkot,Design database schemas,spark hadoop bigdata,2025-03-28,Mid
+System Administrator,Capgemini,Gwalior,Develop full-stack applications,ml tensorflow keras numpy,2025-04-19,Mid
+Project Manager,Automltech,Visakhapatnam,Manage cloud infrastructure,troubleshooting hardware software,2025-04-29,Senior
+Network Engineer,DataSoft,Chandigarh,Deploy machine learning pipelines,linux shell scripting,2025-04-17,Entry
+ML Engineer,InfoSys,Coimbatore,Deploy machine learning pipelines,aws docker kubernetes,2025-03-25,Entry
+Business Analyst,Starttech,Guwahati,Create responsive UI using React,python flask,2025-05-14,Senior
+ML Engineer,Starttech,Madurai,Assist in backend development,aws azure gcp,2025-04-14,Entry
+Business Analyst,DataSoft,Hyderabad,Work on APIs and services,python machine learning pandas numpy,2025-04-12,Senior
+Network Engineer,CodeNest,Bhopal,Manage cloud infrastructure,python django rest sql,2025-05-02,Mid
+Cloud Architect,TechCorp,Ahmedabad,Develop full-stack applications,python django rest sql,2025-05-09,Mid
+Mobile App Developer,Codeworks,Jaipur,Develop mobile apps,linux shell scripting,2025-03-26,Mid
+Database Administrator,MindTree,Madurai,Troubleshoot system issues,aws azure gcp,2025-04-07,Mid
+Business Analyst,Freshworks,Nagpur,Monitor network activity,excel sql tableau,2025-05-03,Senior
+Security Analyst,MindTree,Lucknow,Create responsive UI using React,excel sql tableau,2025-03-28,Entry
+Technical Support,DataSoft,Surat,Develop scalable backend systems,aws azure gcp,2025-04-22,Entry
+AI Developer,InnoTech,Amritsar,Design database schemas,python flask api backend,2025-04-29,Entry
+Database Administrator,DataSoft,Faridabad,Troubleshoot system issues,python react sql git,2025-03-18,Senior
+Software Engineer,TCS,Aurangabad,Create responsive UI using React,python flask,2025-03-30,Senior
+Frontend Developer,DataSoft,Madurai,Troubleshoot system issues,excel sql tableau,2025-03-31,Entry
+Network Engineer,Wipro,Faridabad,Monitor network activity,flutter kotlin android,2025-05-11,Senior
+Junior Data Scientist,CloudNet,Rajkot,Develop scalable backend systems,flutter kotlin android,2025-04-18,Entry
+Software Engineer,TechCorp,Vadodara,Automate deployment pipelines,flutter kotlin android,2025-04-21,Entry
+Python Developer,Automltech,Mumbai,Analyze data models,python flask,2025-04-30,Entry
+Database Administrator,InnoTech,Nashik,Analyze data models,python react sql git,2025-03-30,Senior
+Security Analyst,Automltech,Raipur,Analyze data models,python flask api backend,2025-04-19,Entry
+Frontend Developer,Capgemini,Ludhiana,Develop scalable backend systems,networking security,2025-04-03,Entry
+Cloud Architect,HCL,Coimbatore,Coordinate with teams,python ai keras,2025-04-29,Mid
+Software Engineer,Wipro,Navi Mumbai,Design cloud solutions,react javascript html css,2025-04-08,Senior
+Technical Support,HCL,Chandigarh,Assist in backend development,python flask,2025-04-07,Entry
+Cloud Architect,MindTree,Solapur,Deploy machine learning pipelines,python react sql git,2025-04-16,Mid
+Database Administrator,InfoSys,Lucknow,Work on APIs and services,sql oracle dbms,2025-05-04,Mid
+Mobile App Developer,Deepminds,Gwalior,Assist in backend development,python django rest sql,2025-05-08,Senior
+Technical Support,Codeworks,Thane,Deploy machine learning pipelines,python django rest sql,2025-05-08,Entry
+Database Administrator,Automltech,Solapur,Develop mobile apps,python react sql git,2025-04-04,Senior
+DevOps Engineer,MindTree,Hyderabad,Analyze business data,python ai ml,2025-04-26,Senior
+Mobile App Developer,CodeNest,Delhi,Support AI projects,sql oracle dbms,2025-03-26,Mid
+Network Engineer,TCS,Dhanbad,Create responsive UI using React,react javascript html css,2025-05-16,Entry
+Frontend Developer,Zoho,Rajkot,Analyze business data,python ai keras,2025-05-06,Mid
+Technical Support,Webify,Surat,Work on APIs and services,aws azure gcp,2025-05-12,Mid
+Data Scientist,Zoho,Jaipur,Develop mobile apps,python ai ml,2025-03-30,Mid
+System Administrator,DataSoft,Gwalior,Manage cloud infrastructure,aws azure gcp,2025-03-20,Entry
+Junior AI Researcher,Starttech,Guwahati,Manage cloud infrastructure,python django rest sql,2025-03-30,Mid
+Junior AI Researcher,TCS,Howrah,Deploy machine learning pipelines,excel sql tableau,2025-03-23,Senior
+Technical Support,Wipro,Jaipur,Build ML models for prediction,python pandas numpy,2025-05-03,Mid
+Software Engineer,InfoSys,Ahmedabad,Analyze data models,python ai ml,2025-03-27,Mid
+Project Manager,Automltech,Pune,Troubleshoot system issues,sql oracle dbms,2025-05-03,Senior
+DevOps Engineer,TechCorp,Vasai,Design database schemas,python react sql git,2025-03-26,Mid
+Backend Engineer,CloudNet,Amritsar,Build ML models for prediction,flutter kotlin android,2025-04-30,Senior
+Business Analyst,Capgemini,Aurangabad,Monitor network activity,scrum agile jira,2025-04-06,Mid
+Data Scientist,Codeworks,Ahmedabad,Analyze business data,scrum agile jira,2025-04-23,Entry
+ML Engineer,MindTree,Coimbatore,Automate deployment pipelines,python ai ml,2025-04-25,Senior
+Cloud Architect,Wipro,Ludhiana,Create responsive UI using React,networking security,2025-05-06,Entry
+Junior Python Developer,Codeworks,Chennai,Automate deployment pipelines,flutter kotlin android,2025-04-19,Mid
+Backend Engineer,Automltech,Mumbai,Support AI projects,scrum agile jira,2025-03-18,Entry
+Software Engineer,CodeNest,Chandigarh,Assist in backend development,scrum agile jira,2025-04-25,Mid
+System Administrator,TechCorp,Raipur,Coordinate with teams,spark hadoop bigdata,2025-03-21,Senior
+Security Analyst,InnoTech,Jodhpur,Build ML models for prediction,python flask,2025-04-09,Mid
+Database Administrator,Webify,Ghaziabad,Analyze data models,python flask,2025-04-17,Entry
+Network Engineer,Automltech,Guwahati,Provide tech support,python react sql git,2025-04-29,Senior
+Network Engineer,InfoSys,Nashik,Troubleshoot system issues,sql oracle dbms,2025-03-26,Senior
+Technical Support,DataSoft,Raipur,Create responsive UI using React,ml tensorflow keras numpy,2025-04-05,Senior
+Cloud Architect,Webify,Patna,Work on APIs and services,sql oracle dbms,2025-03-27,Entry
+Junior Data Scientist,Capgemini,Bangalore,Create responsive UI using React,python ai keras,2025-04-20,Senior
+Network Engineer,Freshworks,Gwalior,Provide tech support,linux shell scripting,2025-04-29,Senior
+Frontend Developer,InfoSys,Surat,Improve data pipelines,python ai keras,2025-04-03,Entry
+Security Analyst,InfoSys,Kolkata,Assist in backend development,troubleshooting hardware software,2025-03-30,Senior
+Project Manager,Capgemini,Visakhapatnam,Deploy machine learning pipelines,excel sql tableau,2025-04-26,Senior
+Python Developer,MindTree,Jaipur,Troubleshoot system issues,python machine learning pandas numpy,2025-04-11,Senior
+AI Developer,CloudNet,Varanasi,Coordinate with teams,flutter kotlin android,2025-05-08,Entry
+Frontend Developer,CloudNet,Thane,Coordinate with teams,python flask,2025-04-16,Mid
+Database Administrator,MindTree,Coimbatore,Monitor network activity,sql oracle dbms,2025-05-17,Mid
+Junior Data Scientist,Automltech,Hubli,Coordinate with teams,linux shell scripting,2025-05-12,Senior
+Frontend Developer,Zoho,Chandigarh,Design cloud solutions,flutter kotlin android,2025-03-30,Entry
+Database Administrator,InfoSys,Kolkata,Support AI projects,sql oracle dbms,2025-04-27,Entry
+Cloud Architect,Wipro,Chandigarh,Design database schemas,python django rest sql,2025-05-16,Mid
+Cloud Architect,InnoTech,Ludhiana,Deploy machine learning pipelines,flutter kotlin android,2025-03-19,Senior
+Technical Support,TechCorp,Coimbatore,Develop mobile apps,python django rest sql,2025-03-24,Mid
+Frontend Developer,Wipro,Kolkata,Support AI projects,linux shell scripting,2025-05-10,Mid
+DevOps Engineer,Capgemini,Vasai,Improve data pipelines,python flask,2025-03-30,Senior
+Project Manager,Automltech,Rajkot,Develop full-stack applications,react javascript html css,2025-05-10,Entry
+Junior AI Researcher,Zoho,Navi Mumbai,Provide tech support,python pandas numpy,2025-05-08,Entry
+ML Engineer,MindTree,Raipur,Work on APIs and services,python flask,2025-05-17,Mid
+Mobile App Developer,Zoho,Aurangabad,Design database schemas,python flask api backend,2025-04-07,Mid
+Cloud Architect,Automltech,Nashik,Provide tech support,networking security,2025-04-22,Mid
+Python Developer,TechCorp,Hyderabad,Analyze business data,aws azure gcp,2025-04-11,Entry
+Project Manager,Deepminds,Rajkot,Create responsive UI using React,python django rest sql,2025-03-23,Senior
+AI Developer,Zoho,Vadodara,Assist in backend development,python ai keras,2025-05-13,Entry
+Junior AI Researcher,TCS,Nashik,Develop mobile apps,python django rest sql,2025-04-20,Mid
+Network Engineer,Capgemini,Pune,Automate deployment pipelines,python pandas numpy,2025-05-06,Entry
+Cloud Architect,Zoho,Nashik,Support AI projects,python pandas numpy,2025-04-20,Entry
+AI Developer,Automltech,Bangalore,Design cloud solutions,sql oracle dbms,2025-03-29,Mid
+Python Developer,Zoho,Howrah,Assist in backend development,troubleshooting hardware software,2025-04-07,Entry
+Data Scientist,Zoho,Bhopal,Develop full-stack applications,python flask,2025-04-25,Senior
+Mobile App Developer,CloudNet,Srinagar,Monitor network activity,spark hadoop bigdata,2025-05-17,Mid
+Python Developer,DataSoft,Nashik,Develop scalable backend systems,python ai keras,2025-04-27,Senior
+Technical Support,HCL,Mumbai,Analyze business data,python ai keras,2025-03-25,Mid
+ML Engineer,Capgemini,Vasai,Troubleshoot system issues,aws azure gcp,2025-04-01,Entry
+Mobile App Developer,Zoho,Delhi,Design database schemas,ml tensorflow keras numpy,2025-03-28,Entry
+ML Engineer,Starttech,Nagpur,Coordinate with teams,python ai keras,2025-04-08,Mid
+Backend Engineer,Zoho,Amritsar,Troubleshoot system issues,python machine learning pandas numpy,2025-05-03,Entry
+Project Manager,TechCorp,Coimbatore,Develop full-stack applications,python flask,2025-05-02,Entry
+Backend Engineer,Capgemini,Patna,Coordinate with teams,linux shell scripting,2025-04-08,Mid
+Data Scientist,Zoho,Bhopal,Design cloud solutions,python flask api backend,2025-04-16,Entry
+Data Scientist,Freshworks,Coimbatore,Assist in backend development,python flask api backend,2025-04-23,Mid
+ML Engineer,HCL,Rajkot,Create responsive UI using React,python machine learning pandas numpy,2025-04-09,Mid
+Technical Support,Zoho,Jaipur,Coordinate with teams,spark hadoop bigdata,2025-04-17,Mid
+Project Manager,Starttech,Ranchi,Develop scalable backend systems,python ai keras,2025-04-13,Entry
+Mobile App Developer,MindTree,Nashik,Deploy machine learning pipelines,networking security,2025-04-06,Entry
+Backend Engineer,Codeworks,Surat,Assist in backend development,networking security,2025-04-20,Entry
+Python Developer,CloudNet,Vadodara,Monitor network activity,sql oracle dbms,2025-04-10,Mid
+Cloud Architect,MindTree,Solapur,Monitor network activity,python pandas numpy,2025-05-15,Senior
+Frontend Developer,DataSoft,Raipur,Design cloud solutions,troubleshooting hardware software,2025-03-23,Senior
+Junior Python Developer,Wipro,Agra,Develop mobile apps,python pandas numpy,2025-05-05,Senior
+Database Administrator,DataSoft,Chennai,Analyze business data,spark hadoop bigdata,2025-05-07,Senior
+System Administrator,Webify,Indore,Assist in backend development,python django rest sql,2025-03-19,Senior
+Database Administrator,Deepminds,Ranchi,Deploy machine learning pipelines,python machine learning pandas numpy,2025-04-02,Entry
+Data Scientist,Wipro,Ranchi,Work on APIs and services,python react sql git,2025-03-30,Mid
+Security Analyst,Capgemini,Solapur,Create responsive UI using React,python ai keras,2025-05-05,Entry
+Junior AI Researcher,MindTree,Vijayawada,Build ML models for prediction,scrum agile jira,2025-03-24,Senior
+Cloud Architect,CodeNest,Kanpur,Deploy machine learning pipelines,python ai ml,2025-03-28,Mid
+DevOps Engineer,TCS,Ranchi,Assist in backend development,flutter kotlin android,2025-05-04,Entry
+Python Developer,Codeworks,Hyderabad,Analyze business data,python machine learning pandas numpy,2025-05-01,Senior
+Mobile App Developer,Webify,Srinagar,Improve data pipelines,flutter kotlin android,2025-03-19,Entry
+Frontend Developer,Freshworks,Ghaziabad,Develop scalable backend systems,networking security,2025-04-18,Mid
+ML Engineer,CodeNest,Srinagar,Improve data pipelines,flutter kotlin android,2025-04-16,Mid
+Mobile App Developer,TechCorp,Nagpur,Provide tech support,excel sql tableau,2025-03-25,Entry
+Project Manager,TCS,Guwahati,Develop full-stack applications,excel sql tableau,2025-04-08,Entry
+AI Developer,Zoho,Thane,Develop mobile apps,sql oracle dbms,2025-05-03,Entry
+Junior AI Researcher,Automltech,Kalyan,Support AI projects,python django rest sql,2025-05-02,Mid
+Mobile App Developer,Zoho,Jaipur,Automate deployment pipelines,spark hadoop bigdata,2025-05-03,Mid
+ML Engineer,HCL,Jabalpur,Manage cloud infrastructure,python ai ml,2025-03-20,Senior
+Project Manager,Capgemini,Kanpur,Work on APIs and services,ml tensorflow keras numpy,2025-03-31,Entry
+Backend Engineer,Zoho,Thane,Develop scalable backend systems,python flask api backend,2025-04-05,Mid
+Junior Python Developer,CodeNest,Bangalore,Coordinate with teams,python flask,2025-04-17,Entry
+Technical Support,Deepminds,Rajkot,Analyze data models,networking security,2025-04-11,Senior
+System Administrator,MindTree,Patna,Work on APIs and services,python flask api backend,2025-04-07,Entry
+Backend Engineer,Zoho,Chennai,Improve data pipelines,ml tensorflow keras numpy,2025-04-15,Mid
+Frontend Developer,Zoho,Faridabad,Assist in backend development,spark hadoop bigdata,2025-04-13,Mid
+Data Scientist,InfoSys,Meerut,Provide tech support,python ai ml,2025-05-06,Entry
+Network Engineer,Automltech,Vadodara,Coordinate with teams,aws azure gcp,2025-04-11,Entry
+Cloud Architect,Freshworks,Navi Mumbai,Improve data pipelines,python django rest sql,2025-05-08,Mid
+Mobile App Developer,Webify,Howrah,Support AI projects,python react sql git,2025-05-17,Entry
+DevOps Engineer,Automltech,Gwalior,Create responsive UI using React,spark hadoop bigdata,2025-04-11,Entry
+Data Scientist,HCL,Dhanbad,Develop full-stack applications,aws docker kubernetes,2025-04-18,Senior
+Backend Engineer,InnoTech,Guwahati,Design database schemas,python react sql git,2025-05-05,Senior
+AI Developer,InfoSys,Varanasi,Coordinate with teams,flutter kotlin android,2025-05-02,Mid
+Junior AI Researcher,Zoho,Varanasi,Develop scalable backend systems,sql oracle dbms,2025-04-23,Senior
+Python Developer,HCL,Hubli,Improve data pipelines,sql oracle dbms,2025-05-06,Mid
+Software Engineer,InnoTech,Jaipur,Provide tech support,ml tensorflow keras numpy,2025-04-04,Mid
+Security Analyst,Webify,Kanpur,Improve data pipelines,scrum agile jira,2025-03-29,Mid
+Database Administrator,InnoTech,Delhi,Design database schemas,python react sql git,2025-03-25,Senior
+Cloud Architect,Deepminds,Vadodara,Develop mobile apps,python ai keras,2025-04-17,Mid
+Network Engineer,Wipro,Surat,Manage cloud infrastructure,ml tensorflow keras numpy,2025-04-08,Mid
+ML Engineer,CloudNet,Rajkot,Improve data pipelines,linux shell scripting,2025-03-28,Mid
+System Administrator,CloudNet,Nashik,Manage cloud infrastructure,scrum agile jira,2025-05-11,Entry
+Business Analyst,Deepminds,Vijayawada,Create responsive UI using React,aws docker kubernetes,2025-04-18,Senior
+Software Engineer,MindTree,Vasai,Analyze data models,linux shell scripting,2025-05-07,Senior
+Data Scientist,DataSoft,Coimbatore,Deploy machine learning pipelines,spark hadoop bigdata,2025-04-03,Mid
+Project Manager,Deepminds,Hyderabad,Develop mobile apps,python react sql git,2025-04-22,Mid
+Cloud Architect,Webify,Mumbai,Design database schemas,spark hadoop bigdata,2025-05-13,Entry
+Technical Support,Starttech,Bangalore,Manage cloud infrastructure,sql oracle dbms,2025-04-14,Entry
+Cloud Architect,Webify,Aurangabad,Coordinate with teams,python ai keras,2025-04-25,Mid
+Frontend Developer,Webify,Ahmedabad,Develop mobile apps,linux shell scripting,2025-04-15,Senior
+Frontend Developer,Webify,Solapur,Analyze data models,react javascript html css,2025-04-25,Mid
+Python Developer,Codeworks,Srinagar,Create responsive UI using React,python ai keras,2025-05-11,Senior
+Business Analyst,InnoTech,Guwahati,Coordinate with teams,python django rest sql,2025-04-14,Entry
+Cloud Architect,HCL,Coimbatore,Monitor network activity,scrum agile jira,2025-04-05,Senior
+Mobile App Developer,Deepminds,Vijayawada,Analyze data models,linux shell scripting,2025-05-06,Mid
+AI Developer,Deepminds,Ranchi,Provide tech support,python react sql git,2025-03-19,Entry
+Cloud Architect,Webify,Srinagar,Develop scalable backend systems,troubleshooting hardware software,2025-05-02,Senior
+Junior Data Scientist,Starttech,Pune,Create responsive UI using React,ml tensorflow keras numpy,2025-04-10,Mid
+Technical Support,Automltech,Navi Mumbai,Develop mobile apps,ml tensorflow keras numpy,2025-03-18,Senior
+Junior AI Researcher,Wipro,Ghaziabad,Create responsive UI using React,flutter kotlin android,2025-03-28,Entry
+Data Scientist,Freshworks,Gwalior,Develop scalable backend systems,troubleshooting hardware software,2025-03-29,Entry
+Frontend Developer,Deepminds,Madurai,Monitor network activity,sql oracle dbms,2025-04-27,Entry
+Technical Support,MindTree,Srinagar,Troubleshoot system issues,flutter kotlin android,2025-04-04,Mid
+Network Engineer,Zoho,Hyderabad,Automate deployment pipelines,python ai ml,2025-04-28,Senior
+Backend Engineer,TechCorp,Mumbai,Assist in backend development,python react sql git,2025-03-19,Mid
+Backend Engineer,Freshworks,Hyderabad,Deploy machine learning pipelines,spark hadoop bigdata,2025-05-07,Mid
+Security Analyst,Starttech,Coimbatore,Coordinate with teams,python ai keras,2025-04-10,Senior
+Junior AI Researcher,InfoSys,Raipur,Analyze business data,flutter kotlin android,2025-04-18,Mid
+DevOps Engineer,InnoTech,Mumbai,Analyze business data,aws azure gcp,2025-05-04,Entry
+Security Analyst,Webify,Meerut,Improve data pipelines,flutter kotlin android,2025-03-18,Mid
+Python Developer,TCS,Kota,Build ML models for prediction,python flask api backend,2025-05-03,Senior
+Software Engineer,TCS,Bhopal,Provide tech support,linux shell scripting,2025-04-17,Mid
+Security Analyst,Automltech,Dhanbad,Coordinate with teams,python ai keras,2025-05-08,Mid
+Project Manager,CodeNest,Ghaziabad,Support AI projects,react javascript html css,2025-03-26,Entry
+Data Scientist,MindTree,Kanpur,Build ML models for prediction,spark hadoop bigdata,2025-05-07,Senior
+Project Manager,TechCorp,Pune,Manage cloud infrastructure,aws azure gcp,2025-05-02,Entry
+Database Administrator,Automltech,Dhanbad,Coordinate with teams,excel sql tableau,2025-04-19,Mid
+Frontend Developer,Freshworks,Kota,Troubleshoot system issues,flutter kotlin android,2025-05-12,Entry
+Junior AI Researcher,Codeworks,Rajkot,Create responsive UI using React,python flask api backend,2025-05-11,Entry
+Security Analyst,Capgemini,Visakhapatnam,Manage cloud infrastructure,excel sql tableau,2025-04-27,Senior
+Python Developer,Deepminds,Ludhiana,Design database schemas,python react sql git,2025-03-20,Entry
+Network Engineer,DataSoft,Guwahati,Coordinate with teams,spark hadoop bigdata,2025-04-06,Mid
+DevOps Engineer,TechCorp,Rajkot,Design cloud solutions,react javascript html css,2025-05-16,Senior
+Junior Python Developer,DataSoft,Kanpur,Build ML models for prediction,python flask,2025-05-11,Entry
+Project Manager,Deepminds,Indore,Create responsive UI using React,python react sql git,2025-04-28,Mid
+ML Engineer,MindTree,Chennai,Assist in backend development,python flask api backend,2025-05-01,Senior
+Data Scientist,TechCorp,Jabalpur,Deploy machine learning pipelines,flutter kotlin android,2025-04-18,Mid
+Frontend Developer,TechCorp,Delhi,Manage cloud infrastructure,linux shell scripting,2025-05-17,Senior
+Backend Engineer,HCL,Guwahati,Create responsive UI using React,scrum agile jira,2025-05-16,Mid
+Data Scientist,TCS,Coimbatore,Deploy machine learning pipelines,troubleshooting hardware software,2025-05-03,Mid
+Python Developer,MindTree,Coimbatore,Monitor network activity,aws azure gcp,2025-04-29,Entry
+Frontend Developer,Zoho,Chennai,Automate deployment pipelines,scrum agile jira,2025-05-11,Senior
+Project Manager,Wipro,Dhanbad,Work on APIs and services,python django rest sql,2025-03-20,Senior
+Junior Data Scientist,Zoho,Bangalore,Analyze data models,python react sql git,2025-03-25,Entry
+Frontend Developer,CloudNet,Delhi,Troubleshoot system issues,excel sql tableau,2025-03-22,Mid
+Business Analyst,HCL,Meerut,Design database schemas,aws azure gcp,2025-03-24,Mid
+Junior Python Developer,Automltech,Ranchi,Develop mobile apps,networking security,2025-04-23,Senior
+Network Engineer,HCL,Varanasi,Deploy machine learning pipelines,python ai keras,2025-03-19,Entry
+ML Engineer,Deepminds,Dhanbad,Coordinate with teams,sql oracle dbms,2025-04-26,Entry
+Mobile App Developer,CloudNet,Vasai,Analyze business data,spark hadoop bigdata,2025-05-04,Mid
+Mobile App Developer,MindTree,Jabalpur,Build ML models for prediction,react javascript html css,2025-04-23,Mid
+Python Developer,CodeNest,Bhopal,Deploy machine learning pipelines,ml tensorflow keras numpy,2025-04-09,Senior
+ML Engineer,Wipro,Chennai,Manage cloud infrastructure,networking security,2025-04-18,Entry
+Database Administrator,TechCorp,Solapur,Automate deployment pipelines,python ai keras,2025-04-28,Entry
+AI Developer,Zoho,Ahmedabad,Provide tech support,troubleshooting hardware software,2025-05-02,Entry
+ML Engineer,Automltech,Jabalpur,Design cloud solutions,python react sql git,2025-05-07,Senior
+DevOps Engineer,Starttech,Bhopal,Design cloud solutions,troubleshooting hardware software,2025-05-07,Entry
+Software Engineer,TCS,Ghaziabad,Manage cloud infrastructure,flutter kotlin android,2025-05-06,Senior
+AI Developer,CloudNet,Jaipur,Design database schemas,scrum agile jira,2025-03-28,Senior
+Technical Support,CodeNest,Gwalior,Work on APIs and services,networking security,2025-03-26,Entry
+Business Analyst,Wipro,Madurai,Work on APIs and services,python machine learning pandas numpy,2025-04-23,Senior
+Junior Python Developer,InfoSys,Vadodara,Work on APIs and services,troubleshooting hardware software,2025-04-02,Mid
+Business Analyst,Starttech,Indore,Automate deployment pipelines,aws docker kubernetes,2025-04-12,Entry
+Backend Engineer,InnoTech,Surat,Deploy machine learning pipelines,ml tensorflow keras numpy,2025-05-17,Mid
+Backend Engineer,Automltech,Jodhpur,Support AI projects,python pandas numpy,2025-04-24,Senior
+DevOps Engineer,CloudNet,Agra,Monitor network activity,python flask api backend,2025-04-13,Senior
+Technical Support,Capgemini,Nagpur,Create responsive UI using React,react javascript html css,2025-05-03,Entry
+AI Developer,Deepminds,Jodhpur,Monitor network activity,aws docker kubernetes,2025-03-23,Entry
+AI Developer,Wipro,Madurai,Analyze business data,flutter kotlin android,2025-05-01,Entry
+Python Developer,Webify,Ludhiana,Work on APIs and services,react javascript html css,2025-04-06,Entry
+Technical Support,TCS,Chennai,Automate deployment pipelines,python ai ml,2025-05-10,Mid
+Junior Data Scientist,MindTree,Ranchi,Analyze data models,python flask api backend,2025-05-02,Entry
+Python Developer,HCL,Pune,Design database schemas,linux shell scripting,2025-04-08,Senior
+Project Manager,Webify,Hyderabad,Automate deployment pipelines,spark hadoop bigdata,2025-04-22,Senior
+Junior Data Scientist,Deepminds,Chandigarh,Develop scalable backend systems,sql oracle dbms,2025-04-14,Entry
+Data Scientist,CodeNest,Aurangabad,Build ML models for prediction,python machine learning pandas numpy,2025-03-21,Mid
+System Administrator,Webify,Raipur,Deploy machine learning pipelines,spark hadoop bigdata,2025-03-19,Entry
+Database Administrator,TechCorp,Solapur,Design database schemas,python pandas numpy,2025-03-24,Entry
+Frontend Developer,DataSoft,Kolkata,Build ML models for prediction,react javascript html css,2025-03-19,Senior
+AI Developer,Wipro,Hyderabad,Troubleshoot system issues,spark hadoop bigdata,2025-05-04,Mid
+Software Engineer,Starttech,Gwalior,Troubleshoot system issues,python flask,2025-04-21,Mid
+Business Analyst,Starttech,Indore,Develop full-stack applications,troubleshooting hardware software,2025-04-01,Entry
+Junior Python Developer,CloudNet,Jodhpur,Create responsive UI using React,aws azure gcp,2025-04-05,Senior
+Junior AI Researcher,DataSoft,Agra,Analyze business data,react javascript html css,2025-04-27,Mid
+Project Manager,Capgemini,Ranchi,Support AI projects,flutter kotlin android,2025-04-18,Senior
+Junior Python Developer,Zoho,Vijayawada,Analyze business data,spark hadoop bigdata,2025-03-21,Mid
+Cloud Architect,Deepminds,Hyderabad,Design cloud solutions,aws docker kubernetes,2025-03-28,Senior
+Project Manager,TCS,Kolkata,Design cloud solutions,python machine learning pandas numpy,2025-05-16,Entry
+Junior Data Scientist,InnoTech,Meerut,Create responsive UI using React,flutter kotlin android,2025-03-18,Entry
+Python Developer,Starttech,Hubli,Monitor network activity,python react sql git,2025-05-01,Entry
+Technical Support,MindTree,Bhopal,Manage cloud infrastructure,scrum agile jira,2025-05-04,Mid
+System Administrator,CloudNet,Aurangabad,Design cloud solutions,ml tensorflow keras numpy,2025-04-22,Senior
+Backend Engineer,Freshworks,Lucknow,Analyze business data,python pandas numpy,2025-04-13,Senior
+Mobile App Developer,HCL,Nagpur,Build ML models for prediction,scrum agile jira,2025-04-02,Entry
+Data Scientist,Deepminds,Bhopal,Design cloud solutions,python ai ml,2025-04-19,Senior
+Junior Python Developer,Codeworks,Madurai,Deploy machine learning pipelines,python ai keras,2025-03-25,Entry
+Business Analyst,Deepminds,Surat,Assist in backend development,sql oracle dbms,2025-03-28,Mid
+Frontend Developer,Freshworks,Delhi,Analyze business data,python ai keras,2025-03-24,Mid
+Data Scientist,DataSoft,Aurangabad,Design cloud solutions,aws docker kubernetes,2025-04-25,Entry
+Software Engineer,CodeNest,Chennai,Monitor network activity,python flask,2025-05-15,Entry
+System Administrator,Wipro,Srinagar,Automate deployment pipelines,aws azure gcp,2025-05-03,Mid
+Technical Support,Wipro,Visakhapatnam,Manage cloud infrastructure,python pandas numpy,2025-04-12,Entry
+AI Developer,Zoho,Nagpur,Deploy machine learning pipelines,python flask,2025-03-22,Entry
+Business Analyst,Codeworks,Aurangabad,Develop scalable backend systems,sql oracle dbms,2025-05-01,Entry
+Mobile App Developer,CodeNest,Visakhapatnam,Manage cloud infrastructure,python machine learning pandas numpy,2025-03-19,Mid
+Software Engineer,Starttech,Solapur,Work on APIs and services,python ai keras,2025-05-12,Senior
+Database Administrator,Automltech,Kolkata,Troubleshoot system issues,troubleshooting hardware software,2025-04-07,Entry
+Mobile App Developer,TCS,Ranchi,Develop mobile apps,linux shell scripting,2025-04-23,Entry
+Backend Engineer,Automltech,Bhopal,Coordinate with teams,ml tensorflow keras numpy,2025-05-08,Senior
+Junior Data Scientist,TCS,Visakhapatnam,Assist in backend development,python flask,2025-04-08,Entry
+Cloud Architect,Starttech,Pune,Improve data pipelines,python flask api backend,2025-04-05,Mid
+Technical Support,Codeworks,Jaipur,Develop scalable backend systems,linux shell scripting,2025-04-12,Entry
+Junior Data Scientist,CodeNest,Amritsar,Analyze data models,sql oracle dbms,2025-04-30,Senior
+Junior Python Developer,InnoTech,Gwalior,Provide tech support,python machine learning pandas numpy,2025-03-20,Mid
+Backend Engineer,Codeworks,Hubli,Troubleshoot system issues,linux shell scripting,2025-04-02,Mid
+Database Administrator,Wipro,Pune,Assist in backend development,flutter kotlin android,2025-05-11,Senior
+Junior Data Scientist,Capgemini,Vasai,Monitor network activity,ml tensorflow keras numpy,2025-05-12,Senior
+Python Developer,Wipro,Meerut,Monitor network activity,python machine learning pandas numpy,2025-04-11,Mid
+ML Engineer,InnoTech,Kanpur,Analyze business data,python django rest sql,2025-04-30,Entry
+Backend Engineer,CodeNest,Thane,Support AI projects,excel sql tableau,2025-04-20,Senior
+Junior Data Scientist,MindTree,Thane,Troubleshoot system issues,linux shell scripting,2025-05-02,Mid
+AI Developer,Zoho,Srinagar,Provide tech support,networking security,2025-05-07,Mid
+Security Analyst,HCL,Dhanbad,Assist in backend development,python react sql git,2025-05-14,Mid
+Junior AI Researcher,Freshworks,Vijayawada,Design cloud solutions,aws azure gcp,2025-05-03,Senior
+Security Analyst,Freshworks,Bangalore,Provide tech support,python flask api backend,2025-04-09,Senior
+System Administrator,DataSoft,Madurai,Automate deployment pipelines,aws docker kubernetes,2025-05-07,Entry
+Python Developer,HCL,Kota,Deploy machine learning pipelines,scrum agile jira,2025-05-12,Senior
+Network Engineer,TechCorp,Kanpur,Support AI projects,aws docker kubernetes,2025-03-22,Senior
+Junior Data Scientist,Codeworks,Guwahati,Troubleshoot system issues,excel sql tableau,2025-03-31,Entry
+Data Scientist,HCL,Ahmedabad,Create responsive UI using React,python flask api backend,2025-04-28,Senior
+Junior Python Developer,CloudNet,Raipur,Analyze business data,linux shell scripting,2025-05-14,Entry
+Project Manager,Zoho,Raipur,Develop mobile apps,python ai ml,2025-03-22,Mid
+Frontend Developer,Webify,Amritsar,Provide tech support,python django rest sql,2025-04-22,Entry
+System Administrator,Deepminds,Guwahati,Design cloud solutions,python ai keras,2025-03-30,Mid
+Backend Engineer,MindTree,Ghaziabad,Analyze business data,troubleshooting hardware software,2025-03-28,Senior
+Database Administrator,Webify,Srinagar,Develop full-stack applications,spark hadoop bigdata,2025-04-28,Senior
+Junior Python Developer,Webify,Gwalior,Develop scalable backend systems,python flask,2025-05-08,Senior
+Junior AI Researcher,MindTree,Kolkata,Work on APIs and services,react javascript html css,2025-04-20,Senior
+Project Manager,Starttech,Lucknow,Develop scalable backend systems,ml tensorflow keras numpy,2025-04-22,Entry
+Mobile App Developer,Webify,Thane,Develop full-stack applications,react javascript html css,2025-04-30,Senior
+Junior Data Scientist,CodeNest,Aurangabad,Support AI projects,python flask,2025-05-03,Mid
+Junior Data Scientist,Wipro,Dhanbad,Analyze business data,troubleshooting hardware software,2025-04-29,Senior
+Network Engineer,TCS,Navi Mumbai,Design cloud solutions,python ai keras,2025-03-24,Senior
+Junior AI Researcher,CloudNet,Delhi,Analyze data models,python ai keras,2025-04-09,Mid
+Database Administrator,DataSoft,Delhi,Monitor network activity,python flask,2025-04-10,Mid
+Business Analyst,TCS,Coimbatore,Monitor network activity,python ai keras,2025-03-30,Senior
+Junior Data Scientist,TCS,Varanasi,Work on APIs and services,networking security,2025-03-26,Senior
+Mobile App Developer,CloudNet,Srinagar,Provide tech support,networking security,2025-04-25,Entry
+Business Analyst,Deepminds,Ghaziabad,Analyze data models,linux shell scripting,2025-04-04,Senior
+Network Engineer,TechCorp,Vadodara,Manage cloud infrastructure,python ai ml,2025-04-03,Entry
+Security Analyst,InfoSys,Indore,Manage cloud infrastructure,scrum agile jira,2025-05-16,Mid
+Data Scientist,CloudNet,Agra,Monitor network activity,python ai keras,2025-04-03,Entry
+Software Engineer,Automltech,Varanasi,Develop mobile apps,python ai ml,2025-04-10,Senior
+Python Developer,Codeworks,Visakhapatnam,Work on APIs and services,python flask api backend,2025-03-30,Senior
+Data Scientist,Codeworks,Agra,Design cloud solutions,spark hadoop bigdata,2025-05-12,Mid
+AI Developer,Automltech,Meerut,Coordinate with teams,python ai keras,2025-04-11,Entry
+ML Engineer,HCL,Pune,Support AI projects,python django rest sql,2025-04-10,Senior
+Software Engineer,Zoho,Mumbai,Manage cloud infrastructure,python flask,2025-04-08,Mid
+Data Scientist,Wipro,Guwahati,Coordinate with teams,flutter kotlin android,2025-05-13,Mid
+Database Administrator,MindTree,Chandigarh,Automate deployment pipelines,flutter kotlin android,2025-03-27,Mid
+Frontend Developer,TCS,Allahabad,Support AI projects,python ai ml,2025-03-27,Entry
+Frontend Developer,Freshworks,Kolkata,Coordinate with teams,python machine learning pandas numpy,2025-03-29,Mid
+System Administrator,InnoTech,Allahabad,Develop mobile apps,python ai ml,2025-03-27,Senior
+Security Analyst,Webify,Jaipur,Analyze business data,aws azure gcp,2025-05-03,Entry
+Junior AI Researcher,DataSoft,Vadodara,Provide tech support,troubleshooting hardware software,2025-04-16,Senior
+Project Manager,Wipro,Ghaziabad,Develop full-stack applications,python flask,2025-04-17,Mid
+Junior Python Developer,InnoTech,Aurangabad,Develop scalable backend systems,python machine learning pandas numpy,2025-03-20,Entry
+Junior AI Researcher,TCS,Srinagar,Deploy machine learning pipelines,flutter kotlin android,2025-04-22,Senior
+Business Analyst,Capgemini,Faridabad,Develop full-stack applications,python ai ml,2025-04-08,Entry
+Mobile App Developer,TCS,Jaipur,Deploy machine learning pipelines,linux shell scripting,2025-05-05,Entry
+ML Engineer,DataSoft,Vadodara,Deploy machine learning pipelines,sql oracle dbms,2025-05-12,Mid
+Python Developer,InfoSys,Indore,Develop full-stack applications,spark hadoop bigdata,2025-04-15,Senior
+ML Engineer,HCL,Nagpur,Deploy machine learning pipelines,aws azure gcp,2025-03-18,Senior
+Data Scientist,Deepminds,Lucknow,Design database schemas,excel sql tableau,2025-05-05,Entry
+Technical Support,InfoSys,Kota,Assist in backend development,python react sql git,2025-04-21,Senior
+Mobile App Developer,CloudNet,Madurai,Monitor network activity,scrum agile jira,2025-03-23,Senior
+Junior Data Scientist,TCS,Bhopal,Design cloud solutions,python machine learning pandas numpy,2025-04-29,Mid
+Project Manager,Freshworks,Allahabad,Develop mobile apps,flutter kotlin android,2025-05-09,Mid
+Network Engineer,CodeNest,Nagpur,Improve data pipelines,excel sql tableau,2025-04-29,Mid
+Data Scientist,InfoSys,Lucknow,Deploy machine learning pipelines,aws azure gcp,2025-03-20,Mid
+Network Engineer,InnoTech,Gwalior,Analyze business data,python flask,2025-03-18,Senior
+Mobile App Developer,MindTree,Vijayawada,Design database schemas,aws azure gcp,2025-04-23,Entry
+Mobile App Developer,Deepminds,Patna,Assist in backend development,python machine learning pandas numpy,2025-04-29,Entry
+Frontend Developer,Capgemini,Navi Mumbai,Provide tech support,networking security,2025-03-20,Mid
+Software Engineer,Capgemini,Kolkata,Manage cloud infrastructure,aws docker kubernetes,2025-05-10,Entry
+Database Administrator,MindTree,Ghaziabad,Coordinate with teams,python ai keras,2025-04-25,Mid
+Technical Support,InnoTech,Indore,Coordinate with teams,python flask api backend,2025-03-19,Senior
+System Administrator,Automltech,Bangalore,Develop scalable backend systems,python machine learning pandas numpy,2025-04-03,Senior
+Data Scientist,Starttech,Solapur,Improve data pipelines,python ai ml,2025-04-10,Entry
+Backend Engineer,Wipro,Guwahati,Deploy machine learning pipelines,scrum agile jira,2025-04-29,Mid
+Junior Python Developer,InfoSys,Varanasi,Develop full-stack applications,python ai keras,2025-05-15,Entry
+Backend Engineer,Starttech,Patna,Develop scalable backend systems,python django rest sql,2025-04-14,Entry
+Network Engineer,Deepminds,Vadodara,Analyze data models,react javascript html css,2025-04-16,Senior
+Junior AI Researcher,InfoSys,Aurangabad,Improve data pipelines,python react sql git,2025-03-19,Entry
+System Administrator,DataSoft,Jabalpur,Support AI projects,react javascript html css,2025-04-04,Entry
+Data Scientist,MindTree,Ranchi,Manage cloud infrastructure,troubleshooting hardware software,2025-04-25,Senior
+Cloud Architect,Automltech,Aurangabad,Design cloud solutions,networking security,2025-03-28,Entry
+Cloud Architect,Starttech,Chandigarh,Develop scalable backend systems,python flask,2025-04-15,Senior
+System Administrator,InfoSys,Howrah,Support AI projects,python django rest sql,2025-05-07,Senior
+Business Analyst,CloudNet,Dhanbad,Analyze data models,troubleshooting hardware software,2025-04-22,Senior
+Data Scientist,Automltech,Ranchi,Monitor network activity,sql oracle dbms,2025-05-08,Senior
+Security Analyst,Webify,Varanasi,Manage cloud infrastructure,sql oracle dbms,2025-05-10,Senior
+Data Scientist,DataSoft,Delhi,Automate deployment pipelines,spark hadoop bigdata,2025-05-07,Mid
+Mobile App Developer,HCL,Aurangabad,Build ML models for prediction,python machine learning pandas numpy,2025-04-05,Senior
+Backend Engineer,DataSoft,Raipur,Troubleshoot system issues,react javascript html css,2025-05-13,Mid
+Frontend Developer,Zoho,Vasai,Provide tech support,linux shell scripting,2025-04-15,Mid
+Junior Python Developer,Deepminds,Thane,Support AI projects,python flask api backend,2025-04-30,Entry
+Data Scientist,Wipro,Chandigarh,Design database schemas,python flask,2025-04-21,Senior
+Mobile App Developer,Webify,Jodhpur,Build ML models for prediction,networking security,2025-04-23,Entry
+Business Analyst,Codeworks,Kota,Assist in backend development,aws docker kubernetes,2025-03-28,Mid
+Software Engineer,Automltech,Coimbatore,Monitor network activity,spark hadoop bigdata,2025-04-11,Entry
+Junior Python Developer,MindTree,Ranchi,Manage cloud infrastructure,ml tensorflow keras numpy,2025-04-06,Mid
+Project Manager,Freshworks,Raipur,Automate deployment pipelines,python machine learning pandas numpy,2025-04-27,Senior
+Data Scientist,InnoTech,Bhopal,Build ML models for prediction,flutter kotlin android,2025-05-16,Mid
+Data Scientist,CloudNet,Patna,Improve data pipelines,excel sql tableau,2025-04-21,Mid
+Project Manager,Freshworks,Howrah,Work on APIs and services,sql oracle dbms,2025-05-04,Entry
+Junior Python Developer,Automltech,Meerut,Analyze data models,python pandas numpy,2025-05-11,Entry
+Cloud Architect,Deepminds,Madurai,Coordinate with teams,spark hadoop bigdata,2025-04-26,Mid
+Cloud Architect,Deepminds,Guwahati,Troubleshoot system issues,excel sql tableau,2025-05-12,Entry
+Junior Python Developer,Capgemini,Vijayawada,Support AI projects,python flask api backend,2025-04-04,Mid
+Junior AI Researcher,CloudNet,Raipur,Develop scalable backend systems,scrum agile jira,2025-04-19,Mid
+Data Scientist,Codeworks,Thane,Automate deployment pipelines,spark hadoop bigdata,2025-03-27,Entry
+Technical Support,InnoTech,Faridabad,Monitor network activity,python pandas numpy,2025-05-11,Entry
+Business Analyst,CodeNest,Mumbai,Work on APIs and services,python react sql git,2025-04-25,Entry
+Database Administrator,TCS,Ahmedabad,Support AI projects,python flask,2025-04-30,Senior
+Mobile App Developer,Capgemini,Rajkot,Build ML models for prediction,networking security,2025-04-03,Senior
+Mobile App Developer,InnoTech,Bangalore,Create responsive UI using React,python ai keras,2025-04-07,Senior
+Backend Engineer,InfoSys,Chandigarh,Build ML models for prediction,react javascript html css,2025-04-07,Entry
+Mobile App Developer,Webify,Varanasi,Monitor network activity,networking security,2025-03-24,Entry
+Frontend Developer,Zoho,Raipur,Improve data pipelines,excel sql tableau,2025-04-13,Mid
+Junior AI Researcher,Capgemini,Chennai,Coordinate with teams,python pandas numpy,2025-04-15,Senior
+Business Analyst,Zoho,Navi Mumbai,Troubleshoot system issues,aws azure gcp,2025-05-16,Mid
+Python Developer,Wipro,Kolkata,Analyze business data,networking security,2025-04-20,Entry
+Database Administrator,InfoSys,Nashik,Design database schemas,flutter kotlin android,2025-04-30,Entry
+Junior AI Researcher,Freshworks,Delhi,Analyze data models,python django rest sql,2025-05-13,Entry
+Project Manager,Capgemini,Coimbatore,Work on APIs and services,flutter kotlin android,2025-04-12,Entry
+Technical Support,MindTree,Chandigarh,Analyze data models,scrum agile jira,2025-04-11,Senior
+ML Engineer,InnoTech,Ghaziabad,Improve data pipelines,excel sql tableau,2025-05-01,Mid
+Python Developer,Deepminds,Mumbai,Automate deployment pipelines,networking security,2025-05-17,Entry
+Data Scientist,Capgemini,Ludhiana,Support AI projects,python django rest sql,2025-03-31,Senior
+Data Scientist,Webify,Howrah,Coordinate with teams,aws azure gcp,2025-03-25,Entry
+Junior Data Scientist,Capgemini,Solapur,Develop mobile apps,aws azure gcp,2025-05-12,Mid
+Cloud Architect,CloudNet,Agra,Create responsive UI using React,python django rest sql,2025-05-10,Entry
+Junior Python Developer,MindTree,Rajkot,Analyze data models,python pandas numpy,2025-05-08,Mid
+Security Analyst,HCL,Allahabad,Manage cloud infrastructure,python flask api backend,2025-04-04,Entry
+ML Engineer,Freshworks,Kota,Work on APIs and services,scrum agile jira,2025-04-03,Senior
+Junior AI Researcher,Freshworks,Agra,Assist in backend development,excel sql tableau,2025-04-13,Senior
+Project Manager,CloudNet,Surat,Analyze data models,sql oracle dbms,2025-05-07,Entry
+System Administrator,InnoTech,Dhanbad,Automate deployment pipelines,python machine learning pandas numpy,2025-05-12,Mid
+System Administrator,TechCorp,Nashik,Analyze business data,python ai keras,2025-04-21,Mid
+Junior Data Scientist,CodeNest,Agra,Develop mobile apps,python ai keras,2025-05-01,Senior
+Mobile App Developer,Automltech,Mumbai,Build ML models for prediction,python machine learning pandas numpy,2025-04-28,Entry
+Backend Engineer,Automltech,Rajkot,Assist in backend development,python flask,2025-03-22,Senior
+Business Analyst,TechCorp,Pune,Deploy machine learning pipelines,python flask api backend,2025-05-10,Senior
+Technical Support,Starttech,Bhopal,Improve data pipelines,flutter kotlin android,2025-05-05,Entry
+Project Manager,CodeNest,Kalyan,Coordinate with teams,spark hadoop bigdata,2025-05-01,Mid
+Backend Engineer,Capgemini,Solapur,Develop scalable backend systems,ml tensorflow keras numpy,2025-05-16,Entry
+Data Scientist,Capgemini,Bhopal,Assist in backend development,scrum agile jira,2025-03-20,Senior
+ML Engineer,Automltech,Coimbatore,Support AI projects,python react sql git,2025-03-24,Entry
+Database Administrator,Zoho,Guwahati,Create responsive UI using React,networking security,2025-04-08,Mid
+ML Engineer,Automltech,Kalyan,Automate deployment pipelines,python react sql git,2025-03-21,Entry
+Frontend Developer,InfoSys,Visakhapatnam,Coordinate with teams,python flask,2025-03-22,Senior
+Project Manager,Deepminds,Madurai,Deploy machine learning pipelines,ml tensorflow keras numpy,2025-04-05,Mid
+Cloud Architect,Wipro,Ghaziabad,Develop full-stack applications,python ai keras,2025-04-12,Mid
+Software Engineer,Starttech,Ranchi,Assist in backend development,python pandas numpy,2025-03-28,Senior
+Cloud Architect,TCS,Howrah,Work on APIs and services,python flask api backend,2025-04-29,Senior
+Database Administrator,TCS,Hyderabad,Provide tech support,python ai keras,2025-05-08,Senior
+Software Engineer,Freshworks,Vijayawada,Coordinate with teams,python django rest sql,2025-05-12,Senior
+Technical Support,InfoSys,Ahmedabad,Build ML models for prediction,python react sql git,2025-04-01,Senior
+Database Administrator,CodeNest,Navi Mumbai,Develop full-stack applications,ml tensorflow keras numpy,2025-05-01,Senior
+ML Engineer,Automltech,Rajkot,Design database schemas,sql oracle dbms,2025-05-17,Entry
+Junior Python Developer,HCL,Howrah,Build ML models for prediction,aws azure gcp,2025-05-07,Mid
+Junior Data Scientist,CodeNest,Varanasi,Create responsive UI using React,linux shell scripting,2025-04-19,Entry
+Business Analyst,Webify,Rajkot,Develop scalable backend systems,python machine learning pandas numpy,2025-04-27,Entry
+ML Engineer,TCS,Raipur,Design database schemas,ml tensorflow keras numpy,2025-05-17,Senior
+Security Analyst,CloudNet,Chandigarh,Develop mobile apps,python machine learning pandas numpy,2025-03-21,Entry
+Project Manager,InnoTech,Jaipur,Create responsive UI using React,python machine learning pandas numpy,2025-04-13,Mid
+Security Analyst,Automltech,Chandigarh,Automate deployment pipelines,sql oracle dbms,2025-04-10,Entry
+Python Developer,Capgemini,Chandigarh,Troubleshoot system issues,python machine learning pandas numpy,2025-04-04,Senior
+Frontend Developer,InnoTech,Vasai,Design cloud solutions,python pandas numpy,2025-03-19,Entry
+Junior Python Developer,CloudNet,Mumbai,Coordinate with teams,linux shell scripting,2025-04-26,Senior
+Database Administrator,Starttech,Navi Mumbai,Develop full-stack applications,ml tensorflow keras numpy,2025-05-04,Mid
+Software Engineer,Zoho,Dhanbad,Design database schemas,python flask,2025-04-08,Senior
+Software Engineer,Codeworks,Solapur,Automate deployment pipelines,python pandas numpy,2025-04-07,Mid
+Security Analyst,Automltech,Mumbai,Build ML models for prediction,ml tensorflow keras numpy,2025-04-09,Senior
+Cloud Architect,Zoho,Delhi,Monitor network activity,networking security,2025-04-21,Entry
+System Administrator,CodeNest,Navi Mumbai,Create responsive UI using React,linux shell scripting,2025-04-11,Mid
+Database Administrator,HCL,Amritsar,Analyze data models,networking security,2025-04-25,Mid
+Backend Engineer,Automltech,Madurai,Analyze business data,linux shell scripting,2025-03-29,Senior
+Data Scientist,DataSoft,Agra,Support AI projects,python machine learning pandas numpy,2025-05-09,Entry
+Python Developer,HCL,Madurai,Assist in backend development,python ai keras,2025-04-23,Entry
+ML Engineer,Deepminds,Solapur,Coordinate with teams,spark hadoop bigdata,2025-04-21,Mid
+Software Engineer,HCL,Hyderabad,Create responsive UI using React,ml tensorflow keras numpy,2025-05-10,Entry
+Junior AI Researcher,TCS,Vadodara,Design database schemas,python flask api backend,2025-05-06,Entry
+Backend Engineer,TCS,Kanpur,Assist in backend development,react javascript html css,2025-04-20,Entry
+Security Analyst,CloudNet,Nagpur,Design database schemas,python flask api backend,2025-04-22,Senior
+Backend Engineer,TechCorp,Hyderabad,Create responsive UI using React,python flask api backend,2025-05-12,Mid
+Cloud Architect,CodeNest,Howrah,Analyze business data,python machine learning pandas numpy,2025-04-29,Mid
+Python Developer,CodeNest,Vadodara,Develop mobile apps,python ai keras,2025-04-18,Entry
+Cloud Architect,Wipro,Delhi,Develop mobile apps,python ai keras,2025-05-17,Senior
+Junior AI Researcher,Codeworks,Bhopal,Analyze data models,python flask,2025-04-06,Mid
+Software Engineer,Deepminds,Coimbatore,Analyze data models,ml tensorflow keras numpy,2025-05-16,Senior
+Junior Data Scientist,CodeNest,Kota,Develop full-stack applications,python ai ml,2025-05-02,Mid
+Data Scientist,Webify,Solapur,Improve data pipelines,python django rest sql,2025-04-07,Entry
+DevOps Engineer,InfoSys,Madurai,Manage cloud infrastructure,python django rest sql,2025-04-11,Senior
+Technical Support,CloudNet,Kanpur,Manage cloud infrastructure,aws docker kubernetes,2025-04-12,Mid
+Backend Engineer,InnoTech,Pune,Improve data pipelines,troubleshooting hardware software,2025-03-18,Entry
+Security Analyst,Freshworks,Bangalore,Design cloud solutions,spark hadoop bigdata,2025-04-04,Entry
+Junior Python Developer,Automltech,Hyderabad,Design cloud solutions,linux shell scripting,2025-05-17,Senior
+Database Administrator,InnoTech,Solapur,Analyze data models,python django rest sql,2025-04-21,Senior
+Python Developer,HCL,Patna,Work on APIs and services,linux shell scripting,2025-04-12,Senior
+Cloud Architect,Zoho,Surat,Create responsive UI using React,python ai ml,2025-03-28,Entry
+System Administrator,Automltech,Lucknow,Work on APIs and services,python ai ml,2025-05-08,Senior
+Python Developer,Automltech,Howrah,Troubleshoot system issues,troubleshooting hardware software,2025-04-02,Entry
+System Administrator,InnoTech,Rajkot,Coordinate with teams,python flask,2025-05-14,Mid
+Data Scientist,Webify,Chennai,Provide tech support,python machine learning pandas numpy,2025-05-11,Senior
+Junior Data Scientist,Webify,Ludhiana,Develop full-stack applications,python django rest sql,2025-04-05,Senior
+Python Developer,CodeNest,Vadodara,Coordinate with teams,troubleshooting hardware software,2025-03-25,Entry
+Project Manager,Starttech,Vijayawada,Develop mobile apps,linux shell scripting,2025-03-18,Mid
+Software Engineer,TCS,Chandigarh,Support AI projects,aws azure gcp,2025-03-19,Entry
+Project Manager,HCL,Visakhapatnam,Design database schemas,ml tensorflow keras numpy,2025-04-13,Entry
+Junior AI Researcher,Webify,Ranchi,Develop full-stack applications,python flask api backend,2025-04-25,Entry
+Software Engineer,CloudNet,Amritsar,Monitor network activity,react javascript html css,2025-04-22,Senior
+Frontend Developer,MindTree,Ghaziabad,Design cloud solutions,linux shell scripting,2025-04-24,Senior
+AI Developer,TechCorp,Ahmedabad,Develop full-stack applications,react javascript html css,2025-05-03,Mid
+System Administrator,Wipro,Hubli,Assist in backend development,sql oracle dbms,2025-04-07,Senior
+Cloud Architect,DataSoft,Raipur,Analyze data models,excel sql tableau,2025-05-08,Mid
+Project Manager,Zoho,Solapur,Automate deployment pipelines,react javascript html css,2025-05-02,Mid
+Backend Engineer,Deepminds,Madurai,Assist in backend development,troubleshooting hardware software,2025-04-11,Senior
+Cloud Architect,Wipro,Coimbatore,Provide tech support,spark hadoop bigdata,2025-03-28,Mid
+Frontend Developer,Capgemini,Jaipur,Assist in backend development,sql oracle dbms,2025-05-02,Senior
+Security Analyst,CloudNet,Vasai,Build ML models for prediction,ml tensorflow keras numpy,2025-03-25,Senior
+Frontend Developer,CloudNet,Lucknow,Work on APIs and services,linux shell scripting,2025-04-05,Mid
+Security Analyst,TechCorp,Faridabad,Deploy machine learning pipelines,python django rest sql,2025-05-16,Senior
+Cloud Architect,Webify,Thane,Monitor network activity,python django rest sql,2025-04-12,Entry
+System Administrator,InfoSys,Dhanbad,Coordinate with teams,spark hadoop bigdata,2025-05-04,Entry
+DevOps Engineer,TCS,Surat,Analyze data models,ml tensorflow keras numpy,2025-04-17,Mid
+Data Scientist,CloudNet,Dhanbad,Provide tech support,python flask api backend,2025-04-29,Senior
+System Administrator,MindTree,Amritsar,Analyze data models,aws azure gcp,2025-04-17,Mid
+Business Analyst,Wipro,Thane,Improve data pipelines,scrum agile jira,2025-04-27,Entry
+Frontend Developer,CodeNest,Ghaziabad,Work on APIs and services,flutter kotlin android,2025-04-25,Senior
+Frontend Developer,Starttech,Faridabad,Design database schemas,troubleshooting hardware software,2025-04-08,Entry
+ML Engineer,Codeworks,Faridabad,Analyze data models,react javascript html css,2025-04-03,Entry
+Project Manager,Capgemini,Hyderabad,Develop full-stack applications,flutter kotlin android,2025-04-15,Mid
+Technical Support,Automltech,Kanpur,Manage cloud infrastructure,excel sql tableau,2025-05-01,Senior
+Technical Support,TechCorp,Surat,Troubleshoot system issues,python machine learning pandas numpy,2025-04-29,Entry
+Technical Support,DataSoft,Srinagar,Design cloud solutions,python ai keras,2025-05-17,Senior
+Database Administrator,Codeworks,Nashik,Analyze data models,python machine learning pandas numpy,2025-05-04,Senior
+Network Engineer,CodeNest,Chennai,Design database schemas,python django rest sql,2025-04-25,Senior
+System Administrator,TCS,Navi Mumbai,Work on APIs and services,spark hadoop bigdata,2025-03-22,Mid
+Security Analyst,Webify,Srinagar,Provide tech support,python pandas numpy,2025-05-15,Senior
+Data Scientist,TechCorp,Chandigarh,Work on APIs and services,troubleshooting hardware software,2025-04-15,Mid
+Software Engineer,Capgemini,Vadodara,Coordinate with teams,ml tensorflow keras numpy,2025-03-21,Mid
+Backend Engineer,InnoTech,Visakhapatnam,Monitor network activity,troubleshooting hardware software,2025-04-01,Mid
+Technical Support,CodeNest,Howrah,Automate deployment pipelines,scrum agile jira,2025-05-14,Entry
+Software Engineer,Deepminds,Ranchi,Automate deployment pipelines,python ai keras,2025-04-25,Entry
+ML Engineer,MindTree,Delhi,Develop scalable backend systems,aws azure gcp,2025-03-22,Senior
+Technical Support,InfoSys,Mumbai,Analyze data models,scrum agile jira,2025-03-24,Entry
+Database Administrator,Starttech,Vijayawada,Provide tech support,troubleshooting hardware software,2025-05-13,Senior
+Business Analyst,CloudNet,Navi Mumbai,Automate deployment pipelines,networking security,2025-05-15,Mid
+Security Analyst,TechCorp,Jaipur,Troubleshoot system issues,aws docker kubernetes,2025-03-21,Senior
+Security Analyst,DataSoft,Madurai,Improve data pipelines,scrum agile jira,2025-05-10,Entry
+System Administrator,Automltech,Bhopal,Assist in backend development,troubleshooting hardware software,2025-04-21,Mid
+Python Developer,Capgemini,Vadodara,Deploy machine learning pipelines,python ai keras,2025-05-03,Senior
+Security Analyst,TCS,Jaipur,Troubleshoot system issues,spark hadoop bigdata,2025-04-23,Entry
+Cloud Architect,HCL,Allahabad,Automate deployment pipelines,networking security,2025-03-22,Senior
+Junior AI Researcher,Starttech,Faridabad,Monitor network activity,troubleshooting hardware software,2025-04-14,Senior
+Junior Data Scientist,Deepminds,Thane,Assist in backend development,ml tensorflow keras numpy,2025-04-09,Entry
+Technical Support,Webify,Ludhiana,Support AI projects,aws azure gcp,2025-04-18,Mid
+Junior Python Developer,TCS,Chennai,Analyze business data,python ai keras,2025-04-15,Mid
+ML Engineer,DataSoft,Ranchi,Design database schemas,networking security,2025-03-22,Senior
+Junior AI Researcher,TechCorp,Ghaziabad,Support AI projects,ml tensorflow keras numpy,2025-04-21,Senior
+Database Administrator,MindTree,Kolkata,Work on APIs and services,python react sql git,2025-05-01,Senior
+System Administrator,TCS,Mumbai,Develop full-stack applications,scrum agile jira,2025-03-28,Mid
+Junior Data Scientist,Deepminds,Bangalore,Analyze business data,python ai ml,2025-05-13,Senior
+Database Administrator,Zoho,Solapur,Develop full-stack applications,python flask,2025-05-07,Mid
+Software Engineer,TechCorp,Raipur,Design cloud solutions,python flask,2025-03-21,Mid
+Cloud Architect,Automltech,Vadodara,Design database schemas,flutter kotlin android,2025-04-15,Entry
+Database Administrator,Webify,Raipur,Troubleshoot system issues,aws docker kubernetes,2025-04-27,Entry
+System Administrator,CloudNet,Patna,Build ML models for prediction,scrum agile jira,2025-03-20,Mid
+AI Developer,Starttech,Bangalore,Develop full-stack applications,python react sql git,2025-05-06,Senior
+Security Analyst,Zoho,Kolkata,Analyze data models,react javascript html css,2025-04-13,Senior
+Technical Support,Capgemini,Howrah,Design database schemas,react javascript html css,2025-04-19,Entry
+Database Administrator,Freshworks,Vadodara,Design cloud solutions,python react sql git,2025-04-12,Senior
+Software Engineer,DataSoft,Vijayawada,Design cloud solutions,python react sql git,2025-03-23,Senior
+Python Developer,MindTree,Bhopal,Design cloud solutions,python react sql git,2025-03-30,Senior
+Database Administrator,Automltech,Nagpur,Automate deployment pipelines,linux shell scripting,2025-04-06,Senior
+Security Analyst,Wipro,Mumbai,Analyze business data,python machine learning pandas numpy,2025-04-18,Entry
+ML Engineer,Capgemini,Gwalior,Develop scalable backend systems,sql oracle dbms,2025-04-26,Senior
+Cloud Architect,CodeNest,Raipur,Monitor network activity,ml tensorflow keras numpy,2025-04-08,Entry
+Backend Engineer,CloudNet,Delhi,Develop full-stack applications,linux shell scripting,2025-05-09,Mid
+Security Analyst,Starttech,Guwahati,Create responsive UI using React,python react sql git,2025-04-16,Entry
+AI Developer,CloudNet,Chandigarh,Troubleshoot system issues,python ai keras,2025-04-23,Entry
+Junior AI Researcher,TechCorp,Agra,Deploy machine learning pipelines,excel sql tableau,2025-05-06,Mid
+Technical Support,CodeNest,Meerut,Troubleshoot system issues,aws azure gcp,2025-04-05,Senior
+Data Scientist,CodeNest,Ludhiana,Manage cloud infrastructure,python flask,2025-04-30,Mid
+Database Administrator,CloudNet,Coimbatore,Support AI projects,react javascript html css,2025-04-29,Mid
+AI Developer,Capgemini,Bangalore,Analyze data models,python react sql git,2025-04-24,Senior
+DevOps Engineer,Freshworks,Rajkot,Work on APIs and services,python flask api backend,2025-04-02,Mid
+Network Engineer,Zoho,Agra,Assist in backend development,python ai keras,2025-03-24,Senior
+Python Developer,Capgemini,Faridabad,Analyze data models,python ai ml,2025-04-06,Mid
+AI Developer,Codeworks,Hyderabad,Work on APIs and services,flutter kotlin android,2025-04-12,Mid
+Mobile App Developer,Codeworks,Surat,Analyze data models,python ai keras,2025-03-20,Entry
+Data Scientist,Automltech,Raipur,Manage cloud infrastructure,scrum agile jira,2025-04-29,Entry
+Database Administrator,CloudNet,Allahabad,Improve data pipelines,flutter kotlin android,2025-04-04,Entry
+Project Manager,InfoSys,Thane,Coordinate with teams,react javascript html css,2025-04-11,Entry
+DevOps Engineer,Automltech,Aurangabad,Design database schemas,sql oracle dbms,2025-03-27,Entry
+Junior Data Scientist,Webify,Chennai,Design cloud solutions,python pandas numpy,2025-04-07,Entry
+Security Analyst,Freshworks,Bangalore,Automate deployment pipelines,flutter kotlin android,2025-04-05,Entry
+Frontend Developer,Freshworks,Varanasi,Assist in backend development,aws azure gcp,2025-04-26,Mid
+Junior Python Developer,DataSoft,Jabalpur,Design cloud solutions,python django rest sql,2025-03-23,Mid
+Junior AI Researcher,Zoho,Vadodara,Coordinate with teams,aws azure gcp,2025-04-09,Mid
+ML Engineer,Starttech,Kota,Design cloud solutions,networking security,2025-04-28,Senior
+Mobile App Developer,MindTree,Aurangabad,Coordinate with teams,aws azure gcp,2025-05-07,Senior
+Project Manager,Automltech,Bhopal,Deploy machine learning pipelines,networking security,2025-05-17,Mid
+Software Engineer,CodeNest,Visakhapatnam,Develop mobile apps,flutter kotlin android,2025-03-19,Mid
+Junior Data Scientist,Automltech,Raipur,Build ML models for prediction,excel sql tableau,2025-05-06,Senior
+AI Developer,Freshworks,Nagpur,Improve data pipelines,aws docker kubernetes,2025-05-08,Entry
+Junior Python Developer,MindTree,Nagpur,Deploy machine learning pipelines,python django rest sql,2025-04-20,Mid
+Cloud Architect,TechCorp,Dhanbad,Provide tech support,aws azure gcp,2025-04-22,Senior
+Junior Python Developer,CloudNet,Chandigarh,Analyze data models,linux shell scripting,2025-03-20,Senior
+Project Manager,Automltech,Vadodara,Deploy machine learning pipelines,ml tensorflow keras numpy,2025-03-31,Mid
+Python Developer,Webify,Hyderabad,Support AI projects,flutter kotlin android,2025-04-28,Senior
+System Administrator,InnoTech,Hubli,Analyze data models,python django rest sql,2025-03-22,Mid
+Mobile App Developer,DataSoft,Chennai,Build ML models for prediction,excel sql tableau,2025-03-30,Mid
+Network Engineer,Deepminds,Mumbai,Analyze business data,linux shell scripting,2025-04-02,Senior
+Junior AI Researcher,Capgemini,Jabalpur,Automate deployment pipelines,python pandas numpy,2025-04-05,Senior
+Frontend Developer,Deepminds,Aurangabad,Analyze data models,spark hadoop bigdata,2025-03-27,Entry
+Mobile App Developer,InnoTech,Faridabad,Develop scalable backend systems,scrum agile jira,2025-04-04,Senior
+Mobile App Developer,MindTree,Bhopal,Support AI projects,python pandas numpy,2025-05-06,Mid
+DevOps Engineer,TCS,Kalyan,Develop scalable backend systems,scrum agile jira,2025-05-16,Mid
+Junior Python Developer,Wipro,Hubli,Create responsive UI using React,python ai ml,2025-03-19,Mid
+Software Engineer,TechCorp,Srinagar,Deploy machine learning pipelines,python react sql git,2025-04-21,Mid
+ML Engineer,CodeNest,Chandigarh,Create responsive UI using React,linux shell scripting,2025-03-28,Senior
+Mobile App Developer,MindTree,Hubli,Develop mobile apps,python machine learning pandas numpy,2025-04-11,Entry
+Frontend Developer,TCS,Faridabad,Support AI projects,aws docker kubernetes,2025-05-10,Entry
+ML Engineer,InfoSys,Visakhapatnam,Monitor network activity,python pandas numpy,2025-03-29,Senior
+Technical Support,InfoSys,Bangalore,Develop scalable backend systems,python flask api backend,2025-03-23,Entry
+Project Manager,Deepminds,Ranchi,Assist in backend development,python flask api backend,2025-05-02,Mid
+Technical Support,Deepminds,Madurai,Develop mobile apps,python django rest sql,2025-05-07,Mid
+Project Manager,Codeworks,Jabalpur,Monitor network activity,python flask api backend,2025-05-01,Senior
+Mobile App Developer,HCL,Nagpur,Develop mobile apps,ml tensorflow keras numpy,2025-04-05,Entry
+DevOps Engineer,InfoSys,Bhopal,Provide tech support,ml tensorflow keras numpy,2025-03-28,Entry
+Project Manager,InnoTech,Bhopal,Create responsive UI using React,scrum agile jira,2025-04-24,Mid
+Business Analyst,Freshworks,Jodhpur,Deploy machine learning pipelines,python ai keras,2025-03-21,Entry
+ML Engineer,Codeworks,Varanasi,Automate deployment pipelines,python flask,2025-04-15,Entry
+Security Analyst,TCS,Lucknow,Analyze data models,aws azure gcp,2025-04-03,Entry
+Database Administrator,Deepminds,Hyderabad,Support AI projects,python ai ml,2025-05-15,Entry
+Backend Engineer,Zoho,Vasai,Automate deployment pipelines,spark hadoop bigdata,2025-04-25,Senior
+Mobile App Developer,MindTree,Chennai,Design database schemas,networking security,2025-04-05,Mid
+Python Developer,InnoTech,Vadodara,Monitor network activity,aws docker kubernetes,2025-03-23,Senior
+Database Administrator,TCS,Allahabad,Troubleshoot system issues,python machine learning pandas numpy,2025-05-01,Mid
+Python Developer,Automltech,Varanasi,Build ML models for prediction,python django rest sql,2025-03-31,Mid
+Network Engineer,Wipro,Varanasi,Develop scalable backend systems,spark hadoop bigdata,2025-04-29,Senior
+Frontend Developer,Codeworks,Indore,Develop scalable backend systems,python react sql git,2025-04-24,Senior
+Junior AI Researcher,DataSoft,Allahabad,Analyze business data,flutter kotlin android,2025-05-15,Senior
+Project Manager,Capgemini,Amritsar,Work on APIs and services,troubleshooting hardware software,2025-04-03,Entry
+Backend Engineer,Wipro,Lucknow,Provide tech support,troubleshooting hardware software,2025-04-04,Senior
+Data Scientist,Zoho,Lucknow,Improve data pipelines,linux shell scripting,2025-05-13,Mid
+Backend Engineer,InfoSys,Thane,Develop mobile apps,troubleshooting hardware software,2025-03-30,Entry
+Junior Python Developer,MindTree,Vijayawada,Design cloud solutions,python flask api backend,2025-04-28,Entry
+ML Engineer,Capgemini,Solapur,Coordinate with teams,excel sql tableau,2025-04-02,Mid
+Network Engineer,Deepminds,Vadodara,Develop scalable backend systems,python ai ml,2025-04-04,Mid
+Data Scientist,CodeNest,Ahmedabad,Design database schemas,python django rest sql,2025-04-24,Senior
+Project Manager,CodeNest,Vasai,Automate deployment pipelines,python ai ml,2025-05-12,Entry
+Cloud Architect,Capgemini,Jaipur,Create responsive UI using React,troubleshooting hardware software,2025-04-01,Senior
+Cloud Architect,InfoSys,Agra,Support AI projects,python pandas numpy,2025-05-08,Senior
+Database Administrator,Capgemini,Bhopal,Monitor network activity,python flask api backend,2025-04-07,Senior
+Junior AI Researcher,Wipro,Delhi,Analyze data models,python flask api backend,2025-05-10,Mid
+Software Engineer,Codeworks,Coimbatore,Manage cloud infrastructure,aws azure gcp,2025-03-28,Entry
+Database Administrator,InfoSys,Ranchi,Create responsive UI using React,python flask api backend,2025-05-09,Senior
+Python Developer,HCL,Hubli,Improve data pipelines,react javascript html css,2025-03-18,Entry
+Data Scientist,Automltech,Ahmedabad,Design database schemas,python pandas numpy,2025-05-07,Entry
+System Administrator,Automltech,Gwalior,Create responsive UI using React,troubleshooting hardware software,2025-03-22,Senior
+Software Engineer,CloudNet,Patna,Design cloud solutions,ml tensorflow keras numpy,2025-04-11,Entry
+Junior AI Researcher,HCL,Bhopal,Analyze business data,python flask,2025-05-11,Mid
+Security Analyst,MindTree,Varanasi,Coordinate with teams,aws docker kubernetes,2025-05-14,Entry
+Database Administrator,Capgemini,Nashik,Assist in backend development,ml tensorflow keras numpy,2025-04-18,Senior
+DevOps Engineer,Capgemini,Guwahati,Develop scalable backend systems,ml tensorflow keras numpy,2025-05-03,Senior
+Cloud Architect,InnoTech,Rajkot,Automate deployment pipelines,troubleshooting hardware software,2025-04-20,Senior
+Cloud Architect,TCS,Surat,Design database schemas,ml tensorflow keras numpy,2025-05-10,Entry
+Frontend Developer,Zoho,Delhi,Coordinate with teams,scrum agile jira,2025-04-22,Entry
+DevOps Engineer,HCL,Rajkot,Monitor network activity,aws azure gcp,2025-03-20,Senior
+Junior AI Researcher,CodeNest,Vijayawada,Develop full-stack applications,spark hadoop bigdata,2025-04-05,Entry
+Business Analyst,HCL,Kalyan,Analyze business data,troubleshooting hardware software,2025-05-13,Entry
+Python Developer,Automltech,Coimbatore,Create responsive UI using React,python machine learning pandas numpy,2025-05-16,Senior
+Technical Support,Webify,Srinagar,Work on APIs and services,python pandas numpy,2025-05-10,Mid
+Frontend Developer,Deepminds,Gwalior,Monitor network activity,aws azure gcp,2025-04-01,Senior
+Software Engineer,InnoTech,Guwahati,Design database schemas,excel sql tableau,2025-05-14,Mid
+Backend Engineer,CodeNest,Bangalore,Work on APIs and services,flutter kotlin android,2025-04-10,Senior
+DevOps Engineer,Freshworks,Allahabad,Develop mobile apps,python react sql git,2025-04-09,Mid
+DevOps Engineer,HCL,Delhi,Provide tech support,scrum agile jira,2025-04-22,Entry
+Junior Data Scientist,Zoho,Delhi,Create responsive UI using React,python ai ml,2025-04-30,Mid
+DevOps Engineer,MindTree,Allahabad,Analyze business data,sql oracle dbms,2025-03-22,Senior
+Python Developer,DataSoft,Hubli,Support AI projects,python machine learning pandas numpy,2025-04-16,Senior
+Backend Engineer,Capgemini,Jabalpur,Manage cloud infrastructure,python machine learning pandas numpy,2025-03-27,Entry
+Project Manager,Deepminds,Hubli,Design cloud solutions,python ai keras,2025-05-09,Senior
+Junior Data Scientist,Freshworks,Coimbatore,Develop scalable backend systems,python ai ml,2025-03-27,Entry
+Junior Python Developer,Deepminds,Bangalore,Support AI projects,aws azure gcp,2025-04-26,Mid
+Business Analyst,Capgemini,Jaipur,Design cloud solutions,python react sql git,2025-04-24,Mid
+AI Developer,Starttech,Ahmedabad,Deploy machine learning pipelines,react javascript html css,2025-05-05,Mid
+AI Developer,Webify,Dhanbad,Create responsive UI using React,python ai keras,2025-04-24,Entry
+Cloud Architect,Freshworks,Jabalpur,Automate deployment pipelines,python django rest sql,2025-05-05,Senior
+Frontend Developer,TCS,Jodhpur,Troubleshoot system issues,excel sql tableau,2025-04-15,Senior
+Network Engineer,TechCorp,Chennai,Monitor network activity,ml tensorflow keras numpy,2025-04-18,Entry
+Network Engineer,CodeNest,Vadodara,Develop scalable backend systems,python ai keras,2025-05-07,Senior
+Junior Data Scientist,TechCorp,Visakhapatnam,Design database schemas,react javascript html css,2025-03-29,Mid
+Backend Engineer,Capgemini,Lucknow,Coordinate with teams,networking security,2025-04-30,Entry
+Cloud Architect,TCS,Madurai,Build ML models for prediction,aws azure gcp,2025-05-13,Senior
+Security Analyst,DataSoft,Kota,Build ML models for prediction,python flask api backend,2025-04-19,Entry
+Network Engineer,Freshworks,Kanpur,Provide tech support,aws docker kubernetes,2025-05-12,Mid
+Software Engineer,Codeworks,Patna,Design cloud solutions,python pandas numpy,2025-04-15,Senior
+AI Developer,Zoho,Jabalpur,Design database schemas,aws azure gcp,2025-04-12,Senior
+Technical Support,Zoho,Ranchi,Design database schemas,python pandas numpy,2025-05-11,Senior
+Security Analyst,Wipro,Kolkata,Deploy machine learning pipelines,python flask api backend,2025-04-12,Entry
+Data Scientist,Capgemini,Visakhapatnam,Automate deployment pipelines,linux shell scripting,2025-04-09,Senior
+Business Analyst,InnoTech,Jodhpur,Develop mobile apps,python ai keras,2025-05-09,Mid
+Junior Python Developer,Capgemini,Nashik,Provide tech support,ml tensorflow keras numpy,2025-05-06,Mid
+DevOps Engineer,Zoho,Gwalior,Develop mobile apps,troubleshooting hardware software,2025-04-09,Mid
+ML Engineer,Zoho,Chennai,Deploy machine learning pipelines,networking security,2025-03-28,Mid
+Software Engineer,Deepminds,Faridabad,Create responsive UI using React,ml tensorflow keras numpy,2025-03-26,Mid
+Network Engineer,Webify,Patna,Support AI projects,aws azure gcp,2025-03-31,Mid
+Business Analyst,Zoho,Amritsar,Monitor network activity,python flask,2025-04-24,Senior
+AI Developer,HCL,Kota,Manage cloud infrastructure,aws docker kubernetes,2025-03-21,Entry
+AI Developer,Webify,Faridabad,Design database schemas,python flask,2025-04-27,Senior
+AI Developer,Capgemini,Nashik,Manage cloud infrastructure,python react sql git,2025-04-13,Senior
+Junior Python Developer,InnoTech,Vijayawada,Develop scalable backend systems,react javascript html css,2025-04-13,Senior

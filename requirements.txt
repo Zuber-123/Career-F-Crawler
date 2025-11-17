@@ -1,0 +1,8 @@
+Flask
+scikit-learn
+pandas
+pdfplumber
+python-docx
+requests
+beautifulsoup4
+lxml

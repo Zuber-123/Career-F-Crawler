@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Apply for Job</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #fceabb, #f8b500);
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    header {
+      background-color: #222;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+      font-size: 2rem;
+      font-weight: 600;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+
+    footer {
+      background: #222;
+      color: #fff;
+      text-align: center;
+      padding: 15px 0;
+      font-size: 14px;
+    }
+
+    main {
+      flex-grow: 1;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 30px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+      margin-bottom: 30px;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    label {
+      font-weight: bold;
+      margin-bottom: 5px;
+      color: #444;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="file"],
+    textarea {
+      padding: 12px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-size: 16px;
+      outline: none;
+      transition: border 0.3s;
+      width: 100%;
+      resize: vertical;
+    }
+
+    input[type="text"]:hover,
+    input[type="email"]:hover,
+    input[type="file"]:hover,
+    textarea:hover {
+      border-color: #f8b500;
+    }
+
+    .submit-btn {
+      background-color: #28a745;
+      color: white;
+      padding: 12px;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .submit-btn:hover {
+      background-color: #1e7e34;
+    }
+
+    .back-link {
+      display: block;
+      text-align: center;
+      margin-top: 25px;
+      font-size: 16px;
+      color: #f8b500;
+      text-decoration: none;
+      font-weight: bold;
+      transition: color 0.3s;
+    }
+
+    .back-link:hover {
+      color: #d18f00;
+    }
+  </style>
+</head>
+<body>
+  <header>Career F Crawler</header>
+  <main>
+    <h1>Apply for Job</h1>
+    <form action="/submit-application" method="post" enctype="multipart/form-data">
+      <div>
+        <label for="name">Full Name</label>
+        <input type="text" id="name" name="name" required />
+      </div>
+      <div>
+        <label for="email">Email Address</label>
+        <input type="email" id="email" name="email" required />
+      </div>
+      <div>
+        <label for="education">Education</label>
+        <input type="text" id="education" name="education" placeholder="e.g. B.Tech in CSE, MCA" required />
+      </div>
+      <div>
+        <label for="skills">Skills</label>
+        <input type="text" id="skills" name="skills" placeholder="e.g. Python, Flask, SQL" required />
+      </div>
+      <div>
+        <label for="experience">Work Experience</label>
+        <textarea id="experience" name="experience" rows="4" placeholder="e.g. 2 years as Backend Developer"></textarea>
+      </div>
+      <div>
+        <label for="linkedin">LinkedIn Profile (optional)</label>
+        <input type="text" id="linkedin" name="linkedin" placeholder="https://linkedin.com/in/yourprofile" />
+      </div>
+      <div>
+        <label for="resume">Upload Resume (PDF/DOCX)</label>
+        <input type="file" id="resume" name="resume" accept=".pdf,.docx" required />
+      </div>
+      <button type="submit" class="submit-btn">Submit Application</button>
+    </form>
+    <a href="/" class="back-link">← Back to Search</a>
+  </main>
+  <footer>© 2025 Career F Crawler. All rights reserved.</footer>
+</body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Results - {{ job_title }}</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #fceabb, #f8b500);
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    header {
+     background-color: #222;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+      font-size: 2rem;
+      font-weight: 600;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+
+    footer {
+      background: #222;
+      color: #fff;
+      text-align: center;
+      padding: 15px 0;
+      font-size: 14px;
+    }
+
+    main {
+      flex-grow: 1;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 30px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+      margin-bottom: 30px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      background: #f7f7f7;
+      border-left: 5px solid #f8b500;
+      margin-bottom: 20px;
+      padding: 20px;
+      border-radius: 10px;
+      position: relative;
+      transition: all 0.3s ease;
+    }
+
+    li:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 24px rgba(0,0,0,0.1);
+    }
+
+    .job-title {
+      font-size: 20px;
+      font-weight: bold;
+      color: #f8b500;
+    }
+
+    .job-company {
+      color: #666;
+      font-style: italic;
+    }
+
+    .job-meta {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #888;
+    }
+
+    .apply-btn {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      background-color: #28a745;
+      color: white;
+      padding: 8px 14px;
+      border-radius: 6px;
+      font-weight: bold;
+      text-decoration: none;
+      font-size: 14px;
+      transition: background 0.3s;
+    }
+
+    .apply-btn:hover {
+      background-color: #1e7e34;
+    }
+
+    .back-link {
+      display: block;
+      text-align: center;
+      margin-top: 35px;
+      font-size: 16px;
+      color: #f8b500;
+      text-decoration: none;
+      font-weight: bold;
+      transition: color 0.3s;
+    }
+
+    .back-link:hover {
+      color: #d18f00;
+    }
+  </style>
+</head>
+<body>
+  <header>Career F Crawler</header>
+  <main>
+    <h1>Job Recommendations for "{{ job_title }}"</h1>
+    <ul>
+      {% for job in recommendations %}
+      <li>
+        <div class="job-title">{{ job.Title }}</div>
+        <div class="job-company">{{ job.Company }}, {{ job.Location }}</div>
+        <div class="job-meta">
+          <strong>Posted:</strong> {{ job.DatePosted[:10] }} |
+          <strong>Skill Level:</strong> {{ job.SkillLevel }}
+        </div>
+        <p>{{ job.Description }}</p>
+        <a href="{{ url_for('apply') }}" class="apply-btn">Apply</a>
+      </li>
+      {% endfor %}
+    </ul>
+    <a href="/" class="back-link">← Search Again</a>
+  </main>
+  <footer>© 2025 Career F Crawler. All rights reserved.</footer>
+</body>
+</html>
